@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lexime e mësime për programues</title>
+    <!-- <script src="/index.js"></script> -->
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 16px;
+        }
+
+        .title {
+            
+        }
+
+        .titlebigfont {
+            font-size: 2rem;
+            margin: 1.2rem 1rem;
+        }
+
+        .titlelittlefont {
+            font-size: 1rem;
+            margin: 0.0rem 1rem;
+        }
+
+        .block {
+            display: block;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+
+        .subtitle {
+            font-size: 1rem;
+            margin: 1.2rem 1rem;
+            font-style: italic;
+        }
+
+        .content>a {
+            color: rgb(0, 123, 125);
+            font-size: 1.2;
+            line-height: 1.8rem;
+            margin: 0rem 1rem;
+            font-style: normal;
+            text-decoration: none;
+            display: block;
+            border: solid 0.1rem #eeeeee;
+            padding: 0.5rem 1rem;
+            background-color: #efefef;
+        }
+        .content>a:hover {
+            background-color: #dedede;
+        }
+        .content>a:active,
+        .content>a:visited {
+            color: rgb(0, 123, 125);
+        }
+
+
+
+        .search {
+            width: 100%;
+            padding: 0.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .searchgroup {
+            margin: 1.2rem 1rem;
+        }
+
+        .flex {
+            display: flex;
+            flex-flow: column;
+            height: 97vh;
+        }
+        .fill {
+            flex: 1;
+            overflow-y: scroll;
+        }
+        .mb-1{
+            margin-bottom: 0.25rem;;
+        }
+        .bottom {
+            margin: 0.5rem 1rem;
+            color:darkgoldenrod;
+            
+            font-style: italic;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="flex">
+        <div id="title" class="title titlebigfont">Mësime e lexime për programues të .NET-it</div>
+
+        <div id="subtitle" class="subtitle block">Në vijim gjeni vegëza interneti me video mësimi dhe artikuj
+            interesantë për t'i lexuar</div>
+
+        <div class="searchgroup">
+            <div class="mb-1 block">Kërkim tekstual:</div>
+            <input type="search" id="search" class="search" placeholder="kërko këtu" onfocus="onsearchfocus()"
+                onblur="onsearchblur()" oninput="onsearchinput()">
+        </div>
+
+        <div id="links" class="content fill">
+
+        </div>
+
+        <div id="bottom" class="bottom">
+            
+        </div>
+    </div>
+
+    <script>
+
+        var allLinks = [];
+
+        const title = document.getElementById("title")
+        const subtitle = document.getElementById("subtitle")
+        const search = document.getElementById("search")
+        const links = document.getElementById("links")
+        const bottom = document.getElementById("bottom")
+
+        const blocks = document.getElementsByClassName("block");
+
+        onsearchfocus = () => {
+            title.classList.remove("titlebigfont");
+            title.classList.add("titlelittlefont");
+            [...blocks].forEach(block => { 
+                block.classList.remove("block")
+                block.classList.add("hidden")
+            }); 
+
+        }
+
+        onsearchblur = () => {
+            // title.classList.remove("titlelittlefont");
+            // title.classList.add("titlebigfont");
+            // subtitle.classList.remove("hidden");
+            // subtitle.classList.add("block");
+        }
+
+        onsearchinput = () => {
+            renderLinks();
+        }
+
+        renderLinks = () => {
+            const searchTerm = search.value
+            var linksToRender = allLinks;
+            if (searchTerm && searchTerm.length > 0) {
+                const s = searchTerm.toLowerCase()
+                linksToRender = allLinks.filter(l => l[1].toLowerCase().indexOf(s) > -1 || l[0].toLowerCase().indexOf(s) > -1)
+            }
+
+            links.innerHTML = linksToRender.map(l => `<a href="${l[0]}" target="_blank">${l[1]}</a>`).join('<br>')
+            bottom.innerHTML = linksToRender.length + " nga gjithsej " + allLinks.length + " linqe."
+        }
+
+        getAllLinks = async () => {
+            const alllinksFile = "/alllinks.json"
+            const response = await fetch(alllinksFile)
+            const json = await response.json();
+            return json;
+        }
+
+        getAllLinks().then(links => {
+            allLinks = Object.entries(links).map(([key, value]) => [key, value]);
+
+            renderLinks();
+
+        })
+    </script>
+</body>
+
+</html>
