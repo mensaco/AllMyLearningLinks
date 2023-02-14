@@ -6,179 +6,33 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     <title>Lexime e mësime për programues</title>
-    <!-- <script src="/index.js"></script> -->
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            font-size: 16px;
-        }
+    <script src="/index.js" defer></script>
 
-        .title {
-            
-        }
-
-        .titlebigfont {
-            font-size: 2rem;
-            margin: 1.2rem 1rem;
-            height:auto;
-        }
-
-        .titlelittlefont {
-            font-size: 1rem;
-            margin: 0.0rem 1rem;
-            height:2rem;
-        }
-
-        .block {
-            display: block;
-        }
-
-        .hidden {
-            display: none;
-        }
-
-
-        .subtitle {
-            font-size: 1rem;
-            margin: 1.2rem 1rem;
-            font-style: italic;
-        }
-
-        .content>a {
-            color: rgb(0, 123, 125);
-            font-size: 1.2;
-            line-height: 1.8rem;
-            margin: 0rem 1rem;
-            font-style: normal;
-            text-decoration: none;
-            display: block;
-            border: solid 0.1rem #eeeeee;
-            padding: 0.5rem 1rem;
-            background-color: #efefef;
-        }
-        .content>a:hover {
-            background-color: #dedede;
-        }
-        .content>a:active,
-        .content>a:visited {
-            color: rgb(0, 123, 125);
-        }
-
-
-
-        .search {
-            width: 100%;
-            padding: 0.5rem;
-            margin-bottom: 1rem;
-            height:2rem;
-        }
-
-        .searchgroup {
-            margin: 1.2rem 1rem;
-        }
-
-        .flex {
-            display: flex;
-            flex-flow: column;
-            height: 97vh;
-        }
-        .fill {
-            flex: 1;
-            overflow-y: scroll;
-        }
-        .mb-1{
-            margin-bottom: 0.25rem;;
-        }
-        .bottom {
-            margin: 0.5rem 1rem;
-            color:darkgoldenrod;
-            
-            font-style: italic;
-        }
-    </style>
+    <link rel="stylesheet" href="/styles.css">
 </head>
 
 <body>
-    <div class="flex">
-        <div id="title" class="title titlebigfont">Mësime e lexime për programues të .NET-it</div>
 
-        <div id="subtitle" class="subtitle block">Në vijim gjeni vegëza interneti me video mësimi dhe artikuj
+    <!--
+        <div id="dummy for tailwind classes" class="titlelittlefont" >dummy</div>
+    -->
+
+    <div class="flex flex-col h-screen">
+        <div id="title" class="titlebigfont bg-amber-700 text-white px-2 py-1 m-3 transition-all delay-300">Mësime e lexime për programues të .NET-it</div>
+        <div id="subtitle" class="hideonfocus text-gray-700 text-lg m-3 italic transition-all delay-300">Në vijim gjeni vegëza interneti me video mësimi dhe artikuj
             interesantë për t'i lexuar</div>
-
-        <div class="searchgroup">
-            <div class="mb-1 block">Kërkim tekstual:</div>
-            <input type="search" id="search" class="search" placeholder="kërko këtu" onfocus="onsearchfocus()"
+        <div class="m-3">
+            <div class="mb-1 hideonfocus">Kërkim tekstual:</div>
+            <input type="search" id="search" class="w-full 
+            px-2 py-2 border border-gray-300 md:w-[24rem] focus:bg-amber-50" placeholder="kërko këtu" onfocus="onsearchfocus()"
                 onblur="onsearchblur()" oninput="onsearchinput()">
         </div>
+        <div id="links" class="content flex-1 overflow-y-scroll flex flex-wrap gap-3"></div>
+        <div id="bottom" class="bottom mb-5"></div>
 
-        <div id="links" class="content fill">
-
-        </div>
-
-        <div id="bottom" class="bottom">
-            
-        </div>
     </div>
 
-    <script>
 
-        var allLinks = [];
-
-        const title = document.getElementById("title")
-        const subtitle = document.getElementById("subtitle")
-        const search = document.getElementById("search")
-        const links = document.getElementById("links")
-        const bottom = document.getElementById("bottom")
-
-        const blocks = document.getElementsByClassName("block");
-
-        onsearchfocus = () => {
-            title.classList.remove("titlebigfont");
-            title.classList.add("titlelittlefont");
-            [...blocks].forEach(block => { 
-                block.classList.remove("block")
-                block.classList.add("hidden")
-            }); 
-
-        }
-
-        onsearchblur = () => {
-            // title.classList.remove("titlelittlefont");
-            // title.classList.add("titlebigfont");
-            // subtitle.classList.remove("hidden");
-            // subtitle.classList.add("block");
-        }
-
-        onsearchinput = () => {
-            renderLinks();
-        }
-
-        renderLinks = () => {
-            const searchTerm = search.value
-            var linksToRender = allLinks;
-            if (searchTerm && searchTerm.length > 0) {
-                const s = searchTerm.toLowerCase()
-                linksToRender = allLinks.filter(l => l[1].toLowerCase().indexOf(s) > -1 || l[0].toLowerCase().indexOf(s) > -1)
-            }
-
-            links.innerHTML = linksToRender.map(l => `<a href="${l[0]}" target="_blank">${l[1]}</a>`).join('<br>')
-            bottom.innerHTML = linksToRender.length + " nga gjithsej " + allLinks.length + " linqe."
-        }
-
-        getAllLinks = async () => {
-            const alllinksFile = "/alllinks.json"
-            const response = await fetch(alllinksFile)
-            const json = await response.json();
-            return json;
-        }
-
-        getAllLinks().then(links => {
-            allLinks = Object.entries(links).map(([key, value]) => [key, value]);
-
-            renderLinks();
-
-        })
-    </script>
 </body>
 
 </html>
