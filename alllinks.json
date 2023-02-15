@@ -17,9 +17,7 @@
     "https://martinfowler.com/bliki/WaterfallProcess.html": "Waterfall Process",
     "https://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/How-IoT-connectivity-will-tackle-societys-biggest-challenges": "Biggest challenges in society tackled by IoT",
     "https://simpleprogrammer.com/remote-working-habits/": "Creating Good Habits for Remote Work",
-
     "https://www.reddit.com/r/ProgrammerHumor/comments/dsmrit/machine_learning/": "Extrapolation",
-
     "https://andrewlock.net/avoiding-startup-service-injection-in-asp-net-core-3/": "Avoiding Startup service injection in ASP.NET Core 3",
     "https://www.stevejgordon.co.uk/httpclient-connection-pooling-in-dotnet-core": "HttpClient Connection Pooling in .NET Core",
     "https://elanderson.net/2019/11/using-nswag-to-generate-c-client-classes-for-asp-net-core-3/": "Using NSwag to Generate C# Client Classes for ASP.NET Core 3",
@@ -39,8 +37,6 @@
     "https://www.infoq.com/presentations/kids-joy-of-coding": "Coding the Future Coders",
     "https://simpleprogrammer.com/most-hated-man-in-tech/": "How I Became THE MOST HATED MAN In Tech",
     "https://simpleprogrammer.com/first-year-programmer-mistakes/": "First Year as a Programmer: Mistakes and Outtakes",
-
-
     "https://devblogs.microsoft.com/dotnet/embracing-nullable-reference-types/": "Embracing nullable reference types",
     "https://andrewlock.net/converting-a-terminal-middleware-to-endpoint-routing-in-aspnetcore-3/": "Converting a terminal middleware to endpoint routing in ASP.NET Core 3.0",
     "https://dotnetcoretutorials.com/2019/11/24/implementing-a-leaky-bucket-client-in-net-core/": "Implementing A Leaky Bucket Client In .NET Core",
@@ -60,8 +56,6 @@
     "https://simpleprogrammer.com/web-developers-more-money/": "7 Skills Web Developers Can Master To Make More Money",
     "https://simpleprogrammer.com/career-growth-as-a-programmer/": "Career Growth Questions Programmers Should Explore",
     "https://simpleprogrammer.com/2019-programmer-holiday-gift-guide/": "2019 Simple Programmer Holiday Gift Guide for Developers",
-
-
     "https://platform.uno/cybertruck-in-xaml-and-running-cross-platform-with-webassembly/": "Cybertruck in XAML and running Cross-Platform with WebAssembly",
     "https://andrewlock.net/converting-integration-tests-to-net-core-3/": "Converting integration tests to .NET Core 3.0: Upgrading to ASP.NET Core 3.0 - Part 5",
     "https://dotnetthoughts.net/build-crud-application-with-asp-net-core-entity-framework/": "How to Build a CRUD Application with ASP.NET Core 3.0 and EF Core 3.0",
@@ -88,9 +82,6 @@
     "https://www.computerweekly.com/news/252474971/Percentage-of-women-in-tech-remains-low-at-16-with-little-growth-in-10-years": "Percentage of women in tech remains low at 16%, with little growth in 10 years",
     "https://simpleprogrammer.com/software-architecture-principles/": "Software Architecture Principles That Every Programmer Should Follow",
     "https://blog.pragmaticengineer.com/dont-work-alone/": "Don't Work Alone When You're a New or Junior Engineer",
-
-
-
     "https://dotnettips.wordpress.com/2019/12/11/properly-setting-up-net-framework-projects/": "Properly Setting Up .NET Framework Projects",
     "https://devblogs.microsoft.com/dotnet/an-introduction-to-system-threading-channels/": "An Introduction to System.Threading.Channels",
     "https://www.meziantou.net/thread-safe-observable-collection-in-dotnet.htm": "Thread-safe observable collection in .NET",
@@ -116,10 +107,6 @@
     "https://dotnetcoretutorials.com/2019/12/12/things-i-wish-i-knew-about-chromewebdriver-last-week/": "Things I Wish I Knew About ChromeWebDriver Last Week",
     "https://simpleprogrammer.com/freelance-programming-vs-full-time/": "Full-time Vs Freelance Programmer: Which Type Are You?",
     "https://www.hanselman.com/blog/AdviceToMy20YearOldSelf.aspx": "Advice to my 20 year old self",
-
-
-
-
     "https://enterprisecraftsmanship.com/posts/assertion-messages-in-tests/": "Assertion messages in tests",
     "http://ian.bebbs.co.uk/posts/Uno": "The Seven GUIs of Christmas",
     "https://www.hanselman.com/blog/SettingUpAzureDevOpsCICDForANETCore31WebAppHostedInAzureAppServiceForLinux.aspx": "Setting up Azure DevOps CI/CD for a .NET Core 3.1 Web App hosted in Azure App Service for Linux",
@@ -142,8 +129,6 @@
     "https://programmingwithmosh.com/mobile/the-path-to-become-a-mobile-developer-in-2020/": "The Path To Become A Mobile Developer In 2020",
     "https://simpleprogrammer.com/become-growth-hackers/": "What Does It Take for Programmers To Become Growth Hackers",
     "https://simpleprogrammer.com/remote-work-resources/": "The Ultimate List of Remote Work Resources",
-
-
     "https://www.thereformedprogrammer.net/a-technique-for-building-high-performance-databases-with-ef-core/": "A technique for building high-performance databases with EF Core",
     "https://thomaslevesque.com/2019/12/20/asp-net-core-when-environments-are-not-enough-use-sub-environments/": "ASP.NET Core: when environments are not enough, use sub-environments!",
     "https://elanderson.net/2019/12/using-nswag-to-generate-react-client-for-an-asp-net-core-3-api/": "Using NSwag to Generate React Client for an ASP.NET Core 3 API",
@@ -159,9 +144,6 @@
     "https://dzone.com/articles/graphql-thinking-beyond-the-technology": "GraphQL: Thinking Beyond the Technology",
     "https://simpleprogrammer.com/improve-coding-speed/": "5 Effective Tips To Improve Coding Speed for Programmers",
     "https://simpleprogrammer.com/developer-workload/": "How to Say “No” to an Excessive Workload as a Developer",
-
-
-
     "https://wakeupandcode.com/authentication-authorization-in-asp-net-core-3-1/": "Authentication &amp; Authorization in ASP .NET Core 3.1",
     "https://www.stevejgordon.co.uk/getting-started-with-the-aws-sdk-in-net-core-part-1": "Getting Started with the AWS SDK in .NET Core",
     "https://rehansaeed.com/asp-net-core-integration-testing-mocking-using-moq/": "ASP.NET Core Integration Testing &amp; Mocking using Moq",
@@ -186,8 +168,6 @@
     "https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/": "How I Do (Hopefully) Fair Performance Reviews for Software Developers",
     "https://programmingwithmosh.com/backend/learning-path-to-become-a-backend-developer-in-2020/": "Learning Path To Become A Backend Developer in 2020",
     "https://www.stevejgordon.co.uk/become-a-better-developer-through-blogging-part-1": "Become a Better Developer Through Blogging",
-
-
     "https://www.meziantou.net/prevent-zip-bombs-in-dotnet.htm": "Prevent Zip bombs in .NET",
     "https://www.stevejgordon.co.uk/csharp-8-understanding-using-declarations": "C# 8.0: Understanding Using Declarations",
     "https://elanderson.net/2020/01/using-nswag-to-generate-blazor-server-client-for-an-asp-net-core-3-1-api/": "Using NSwag to Generate Blazor Server Client for an ASP.NET Core 3.1 API",
@@ -209,9 +189,6 @@
     "https://simpleprogrammer.com/become-game-developer/": "8 STEPS To Become A Well-Rounded GAME DEVELOPER",
     "https://www.troyhunt.com/kids-and-code-object-orientated-programming-with-code-combat/": "Kids and Code: Object-Oriented Programming with Code Combat",
     "https://simpleprogrammer.com/google-screening-process/": "9 Lessons From the Google Screening Process to Supercharge Your Resume",
-
-
-
     "https://andrewlock.net/inserting-middleware-between-userouting-and-useendpoints-as-a-library-author-part-1/": "Inserting middleware between UseRouting() and UseEndpoints() as a library author - Part 1",
     "https://www.hanselman.com/blog/TryingOutContainerToolsInVisualStudio2019.aspx": "Trying out Container Tools in Visual Studio 2019",
     "https://damienbod.com/2020/01/29/creating-certificates-for-x-509-security-in-azure-iot-hub-using-net-core/": "Creating Certificates for X.509 security in Azure IoT Hub using .NET Core",
@@ -237,9 +214,6 @@
     "https://www.stevejgordon.co.uk/become-a-better-developer-by-reading-source-code": "Become a Better Developer by Reading Source Code",
     "https://simpleprogrammer.com/dont-apply-to-jobs-anymore/": "STOP! Don't Apply To Jobs ANYMORE",
     "https://simpleprogrammer.com/programmer-disappointments/": "8 Disappointments of the Programmer: What You Should Be Prepared For",
-
-
-
     "https://wakeupandcode.com/ef-core-relationships-in-asp-net-core-3-1/": "EF Core Relationships in ASP .NET Core 3.1",
     "https://andrewlock.net/inserting-middleware-between-userouting-and-useendpoints-as-a-library-author-part-2/": "Inserting middleware between UseRouting() and UseEndpoints() as a library author - Part 2",
     "https://damienbod.com/2020/02/04/creating-certificates-in-net-core-for-vue-js-development-using-https/": "Creating Certificates in .NET Core for Vue.js development using HTTPS",
@@ -259,9 +233,6 @@
     "https://enterprisecraftsmanship.com/posts/3-things-that-will-make-or-break-your-project/": "3 things that will make or break your project",
     "https://simpleprogrammer.com/coding-certification/": "Are CODING CERTIFICATIONS Worth It?",
     "https://simpleprogrammer.com/lifestyle-change-programmers/": "The Power of Lifestyle Changes for Programmers",
-
-
-
     "http://damienbod.com/2020/02/10/create-certificates-for-identityserver4-signing-using-net-core/": "Create Certificates for IdentityServer4 signing using .NET Core",
     "https://www.stevejgordon.co.uk/anonymous-aware-middleware-with-endpoint-routing-and-healthchecks": "Anonymous Aware Middleware with Endpoint Routing and Healthchecks",
     "https://michaelscodingspot.com/rest-vs-grpc-for-asp-net/": "C# to C# Communication: REST, gRPC and everything in between",
@@ -293,7 +264,6 @@
     "https://www.infoq.com/news/2020/02/GitHub-cli-tool-beta/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global": "New GitHub CLI Enables Working With Issues and PRs from the Command Line",
     "https://simpleprogrammer.com/survive-programming-job-market/": "How To SURVIVE The PROGRAMMING JOB MARKET",
     "https://simpleprogrammer.com/remote-career-coding/": "A Successful Remote Career in Coding? More Likely Than One Might Think",
-
     "https://wakeupandcode.com/generic-host-builder-in-asp-net-core-3-1/": "Generic Host Builder in ASP .NET Core 3.1",
     "https://www.strathweb.com/2020/02/asp-net-core-mvc-3-x-addmvc-addmvccore-addcontrollers-and-other-bootstrapping-approaches/": "ASP.NET Core MVC 3.x - AddMvc(), AddMvcCore(), AddControllers() and other bootstrapping approaches",
     "https://elanderson.net/2020/02/upgrade-an-asp-net-core-application-to-bootstrap-4/": "Upgrade an ASP.NET Core Application to Bootstrap 4",
@@ -312,8 +282,6 @@
     "https://www.hanselman.com/blog/HowToInstallVisualStudioCodeOnARaspberryPi4InMinutes.aspx": "How to install Visual Studio Code on a Raspberry Pi 4 in minutes",
     "https://simpleprogrammer.com/how-to-teach-programming/": "How To Teach Programming and Earn a Living",
     "https://simpleprogrammer.com/programming-job-reality-vs-expectations/": "Programming Job - Reality Vs Expectations",
-
-
     "https://wakeupandcode.com/handling-errors-in-asp-net-core-3-1/": "Handling Errors in ASP .NET Core 3.1",
     "https://elanderson.net/2020/02/getting-started-with-azure-devops/": "Getting Started with Azure DevOps ",
     "https://michaelscodingspot.com/dotnet-debugging-tools/": "10 Essential Debugging Tools for C# .NET Development",
@@ -334,7 +302,6 @@
     "https://khalidabuhakmeh.com/six-famous-artists-quotes-that-apply-to-programming": "Six Famous Artists Quotes That Apply To Programming",
     "https://www.danylkoweb.com/Blog/5-best-tools-for-traveling-developers-HC": "5 Best Tools for Traveling Developers",
     "https://simpleprogrammer.com/value-of-failure/": "The Value of Failure Is the Cost of Innovation",
-
     "https://andrewlock.net/creating-a-custom-error-handler-middleware-function/": "Creating a custom ErrorHandlerMiddleware function",
     "https://wakeupandcode.com/iis-hosting-for-asp-net-core-3-1-web-apps/": "IIS Hosting for ASP .NET Core 3.1 Web Apps",
     "https://codeopinion.com/cqrs-refactoring-queries-without-repositories/": "CQRS: Refactoring Queries without Repositories",
@@ -361,7 +328,6 @@
     "https://www.hanselman.com/blog/LoveInATimeOfCoronaVirusTipsTricksAndBestPracticesForWorkingRemotely.aspx": "Love in a time of Corona Virus - Tips, Tricks and Best Practices for Working Remotely",
     "https://simpleprogrammer.com/make-money-as-a-game-developer/": "5 BEST Ways TO MAKE MONEY As A Game Developer",
     "https://exceptionnotfound.net/improving-your-technical-speaking-skills-be-knowledgeable/": "Improving Your Technical Speaking Skills: Be Knowledgeable",
-
     "https://weblog.west-wind.com/posts/2020/Mar/13/Back-to-Basics-Rewriting-a-URL-in-ASPNET-Core": "Back to Basics: Rewriting a URL in ASP.NET Core",
     "https://blog.elmah.io/the-asp-net-core-security-headers-guide/": "The ASP.NET Core security headers guide",
     "https://danielhindrikes.se/index.php/2020/03/10/application-insights-for-xamarin-and-uwp-apps-with-tinyinsights/": "Application Insights for Xamarin- and UWP apps with TinyInsights",
@@ -385,8 +351,6 @@
     "https://simpleprogrammer.com/programming-work-rut/": "Getting out of a Rut at Work",
     "https://exceptionnotfound.net/improving-your-technical-speaking-skills-be-communicative/": "Improving Your Technical Speaking Skills: Be Communicative",
     "https://blog.codewithdan.com/5-actions-you-can-take-to-reduce-anxiety-stress-and-increase-overall-wellbeing/": "5 Actions You Can Take To Reduce Anxiety/Stress and Increase Overall Wellbeing",
-
-
     "https://jimmybogard.com/avoid-in-memory-databases-for-tests/": "Avoid In-Memory Databases for Tests",
     "https://dotnetcoretutorials.com/2020/03/15/fixing-json-self-referencing-loop-exceptions/": "Fixing JSON Self Referencing Loop Exceptions",
     "https://elanderson.net/2020/03/azure-devops-publish-asp-net-core/": "Azure DevOps Publish Artifacts for ASP.NET Core",
@@ -418,7 +382,6 @@
     "https://exceptionnotfound.net/improving-your-technical-speaking-skills-dont-be-boring/": "Improving Your Technical Speaking Skills: Don't Be Boring!",
     "https://exceptionnotfound.net/improving-your-technical-speaking-skills-be-approachable/": "Improving Your Technical Speaking Skills: Be Approachable",
     "https://simpleprogrammer.com/get-a-programming-job-zero-connections/": "How To Get A Programming Job ZERO Connections",
-
     "https://wakeupandcode.com/logging-in-asp-net-core-3-1/": "Logging in ASP .NET Core 3.1",
     "https://khalidabuhakmeh.com/getting-started-with-net-localization": "Getting Started With .NET Localization",
     "https://danielhindrikes.se/index.php/2020/03/26/unit-testing-of-code-that-uses-imemorycache/": "Unit testing of code that uses IMemoryCache",
@@ -445,9 +408,6 @@
     "https://www.strathweb.com/2020/03/intro-to-quantum-computing-with-q-part-1-the-background-and-the-qubit/": "Intro to quantum computing with Q# - Part 1, The background and the qubit",
     "https://programmingwithmosh.com/javascript/top-frontend-frameworks-to-learn-in-2020/": "Top Frontend Frameworks To Learn In 2020",
     "https://simpleprogrammer.com/remote-programmer-side-hustles/": "5 Remote Side Hustle Ideas Specifically for Programmers",
-
-
-
     "https://exceptionnotfound.net/implementing-a-generic-dapper-repository-in-asp-net-core/": "Implementing a Generic Dapper Repository in ASP.NET Core",
     "https://wakeupandcode.com/middleware-in-asp-net-core-3-1/": "Middleware in ASP .NET Core 3.1",
     "https://jimmybogard.com/building-end-to-end-diagnostics-and-tracing-a-primer/": "Building End-to-End Diagnostics and Tracing: An Intro",
@@ -471,7 +431,6 @@
     "https://www.hanselman.com/blog/HowToRemoteDesktopFullscreenRDPWithJustSOMEOfYourMultipleMonitors.aspx": "How to remote desktop fullscreen RDP with just SOME of your multiple monitors",
     "https://www.troyhunt.com/reassuring-words-and-good-intentions-dont-mean-good-security/": "Reassuring Words and Good Intentions Don't Mean Good Security",
     "https://simpleprogrammer.com/conferences-important-for-developers/": "Conferences Are Important For Developers",
-
     "https://andrewlock.net/5-ways-to-set-the-urls-for-an-aspnetcore-app/": "5 ways to set the URLs for an ASP.NET Core app",
     "https://damienbod.com/2020/04/09/using-certificates-from-azure-key-vault-in-asp-net-core/": "Using Certificates from the Azure Key Vault in ASP.NET Core",
     "https://jimmybogard.com/building-end-to-end-diagnostics-and-tracing-a-primer-trace-context/": "Building End-to-End Diagnostics and Tracing: Trace Context",
@@ -493,8 +452,6 @@
     "https://octopus.com/blog/use-case-for-designing-db-deployment-process": "Designing an automated database deployment process: case study",
     "https://www.troyhunt.com/lets-stop-the-5g-hysteria-understanding-hoaxes-and-disinformation-campaigns/": "Let's Stop the 5G Hysteria: Understanding Hoaxes and Disinformation Campaigns",
     "https://simpleprogrammer.com/coronavirus-programmers-help/": "How Programmers Can Lend a Hand To Help Fight COVID-19",
-
-
     "https://ardalis.com/are-boolean-flags-on-methods-a-code-smell": "Are Boolean Flags on Methods a Code Smell?",
     "https://benfoster.io/blog/serilog-logging-best-practices": "Serilog Logging Best Practices",
     "https://enterprisecraftsmanship.com/posts/when-to-mock/": "When to Mock",
@@ -517,8 +474,6 @@
     "https://martinfowler.com/articles/class-too-large.html": "Refactoring: This class is too large",
     "https://www.troyhunt.com/welcoming-the-icelandic-government-to-have-i-been-pwned/": "Welcoming the Icelandic Government to Have I Been Pwned",
     "https://simpleprogrammer.com/soft-skills-remote-work/": "Soft Skills for Remote Work (Or How To Get Programmers' Collaborative Culture Rolling)",
-
-
     "https://wakeupandcode.com/production-tips-for-asp-net-core-3-1-web-apps/": "Production Tips for ASP .NET Core 3.1 Web Apps",
     "https://dotnetcoretutorials.com/2020/04/23/how-to-parse-xml-in-net-core/": "How To Parse XML In .NET Core",
     "https://csharp.christiannagel.com/2020/04/21/c-9-positional-or-nominal-creation/": "C# 9 - Positional or Nominal Creation",
@@ -544,8 +499,6 @@
     "https://programmingwithmosh.com/general/the-reason-youre-not-getting-the-job-you-applied-for/": "The Reason You're Not Getting the Job You Applied For",
     "https://simpleprogrammer.com/software-developer-hourly-rates/": "Software Developer Hourly Rates: Is It Better To Be a Freelancer or a Company Employee?",
     "https://simpleprogrammer.com/start-a-career-in-cybersecurity/": "Start A Career In CYBER SECURITY?",
-
-
     "https://andrewlock.net/preventing-mass-assignment-or-over-posting-with-razor-pages-in-asp-net-core/": "Preventing mass assignment or over posting with Razor Pages in ASP.NET Core",
     "https://www.meziantou.net/split-a-string-into-lines-without-allocation.htm": "Split a string into lines without any allocation",
     "https://michaelscodingspot.com/memory-profilers-for-memory-leaks/": "Demystifying Memory Profilers in C# .NET - Memory Leaks",
@@ -570,9 +523,6 @@
     "https://www.stevejgordon.co.uk/do-we-have-an-obsession-with-ducks-in-software-development": "Do We Have an Obsession with Ducks in Software Development?",
     "https://simpleprogrammer.com/remote-work-revolution/": "REMOTE WORK REVOLUTION Is Here… Here's How To Start",
     "https://simpleprogrammer.com/devops-trends-2020/": "DevOps Trends To Watch Out For in 2020",
-
-
-
     "https://wakeupandcode.com/razor-pages-in-asp-net-core-3-1/": "Razor Pages in ASP .NET Core 3.1",
     "http://dontcodetired.com/blog/post.aspx?id=31fadcec-ad52-49b1-8f23-f6f9c275f728": "C# Source Generators: Less Boilerplate Code, More Productivity",
     "https://jimmybogard.com/building-end-to-end-diagnostics-opentelemetry-integration/": "Building End-to-End Diagnostics: OpenTelemetry Integration",
@@ -597,8 +547,6 @@
     "https://www.danylkoweb.com/Blog/5-reasons-why-every-developer-needs-a-side-project-P1": "5 Reasons Why Every Developer Needs a Side-project",
     "https://dotnettips.wordpress.com/2020/05/05/the-world-pandemic-is-showing-us-websites-are-still-too-hard-to-write/": "The World Pandemic is Showing Us Websites Are Still Too Hard to Write",
     "https://simpleprogrammer.com/lean-software-solutions/": "How You Can Turn a Short Developer Assignment Into a 9-Year Job",
-
-
     "https://gunnarpeipman.com/aspnet-core-dapper/": "Using Dapper in ASP.NET Core applications",
     "https://wakeupandcode.com/signalr-in-asp-net-core-3-1/": "SignalR in ASP .NET Core 3.1 ",
     "https://csharp.christiannagel.com/2020/05/15/dependencyinjection-2/": "It's all in the Host Class - Dependency Injection with .NET",
@@ -633,8 +581,6 @@
     "https://simpleprogrammer.com/artificial-intelligence-degree/": "ARTIFICIAL INTELLIGENCE DEGREE - Worth It?",
     "https://simpleprogrammer.com/producing-secure-code/": "The Six Tenets of Producing Secure Code",
     "https://simpleprogrammer.com/programmers-credit-score/": "The Programmer's Guide to Building Your Credit Score",
-
-
     "https://christianfindlay.com/2020/05/15/c-delegates-with-ioc-containers-and-dependency-injection/": "C# Delegates with IoC Containers and Dependency Injection",
     "https://dotnettips.wordpress.com/2020/05/18/setting-up-asp-net-core-response-compression/": "Setting Up ASP.NET Core: Response Compression",
     "https://blog.dotnetframework.org/2020/05/21/c-300-performance-increase-dictionaries-vs-linq/": "C# 300% #performance increase Dictionaries vs #Linq",
@@ -668,9 +614,6 @@
     "https://martinfowler.com/articles/branching-patterns.html#experimental-branch": "Branching Patterns: Experimental Branch",
     "https://www.danylkoweb.com/Blog/research-tools-for-developers-with-side-projects-P7": "Research Tools for Developers with Side Projects",
     "https://simpleprogrammer.com/career-in-cloud-computing/": "How To Develop a Career in Cloud Computing",
-
-
-
     "https://exceptionnotfound.net/overview-of-api-versioning-in-asp-net-core-3-0/": "Overview of API Versioning in ASP.NET Core 3.0+",
     "https://wakeupandcode.com/unit-testing-in-asp-net-core-3-1/": "Unit Testing in ASP .NET Core 3.1",
     "https://weblog.west-wind.com/posts/2020/May/28/ASPNET-Core-WebSockets-and-Application-Lifetime-Shutdown-Events": "ASP.NET Core WebSockets and Application Lifetime Shutdown Events",
@@ -699,8 +642,6 @@
     "https://martinfowler.com/articles/branching-patterns.html#FinalThoughtsAndRecommendations": "Branching Patterns: Final Thoughts and Recommendations",
     "https://simpleprogrammer.com/moving-from-junior-senior-engineer/": "Moving From JUNIOR To SENIOR Engineer… FAST!",
     "https://simpleprogrammer.com/?p=36464": "6 Bad Programming Habits To Lose in 2020",
-
-
     "https://www.thereformedprogrammer.net/ef-core-in-depth-what-happens-when-ef-core-reads-from-the-database/": "EF Core In-depth - what happens when EF Core reads from the database?",
     "https://damienbod.com/2020/05/29/login-and-use-asp-net-core-api-with-azure-ad-auth-and-user-access-tokens/": "Login and use an ASP.NET Core API with Azure AD Auth and user access tokens",
     "https://www.meziantou.net/security-headers-in-asp-net-core.htm": "Security headers in ASP.NET Core",
@@ -719,8 +660,6 @@
     "https://christianfindlay.com/2020/06/04/blazor-vs-react-angular-vue-js/": "Blazor vs. React / Angular / Vue.js",
     "https://simpleprogrammer.com/apis-help-developers-build-apps/": "How APIs Help Developers Build Apps With Enhanced Functionalities",
     "https://exceptionnotfound.net/we-are-all-at-the-mercy-of-our-google-overlords/": "We Are All At The Mercy Of Our Google Overlords",
-
-
     "https://www.meziantou.net/versioning-an-asp-net-core-api.htm": "Versioning an ASP.NET Core API",
     "https://khalidabuhakmeh.com/improve-entity-framework-core-performance": "Improve Entity Framework Core Performance",
     "https://www.danylkoweb.com/Blog/5-useful-taghelpers-built-into-aspnet-core-QN": "5 Useful TagHelpers Built Into ASP.NET Core",
@@ -748,9 +687,6 @@
     "https://www.meziantou.net/visual-studio-tips-and-tricks-add-project-reference-using-drag-drop.htm": "Visual Studio Tips and tricks: Add project reference using drag &amp; drop",
     "https://simpleprogrammer.com/new-clients-remote-programmer-pandemic/": "Finding New Clients as a Remote Programmer During the Pandemic",
     "https://simpleprogrammer.com/franklin-method-learn-programming/": "Franklin Method: How To Learn Programming Properly",
-
-
-
     "https://wakeupandcode.com/validation-in-asp-net-core-3-1/": "Validation in ASP .NET Core 3.1",
     "https://andrewlock.net/adding-host-filtering-to-kestrel-in-aspnetcore/": "Adding host filtering to Kestrel in ASP.NET Core",
     "https://elanderson.net/2020/06/github-use-actions-to-build-asp-net-core-application/": "GitHub: Use Actions to build ASP.NET Core Application",
@@ -774,9 +710,6 @@
     "https://dotnetthoughts.net/mapping-custom-domain-and-ssl-to-azure-appservice/": "How to map custom domain and SSL to Azure app service programmatically",
     "https://www.hanselman.com/blog/TheImportanceOfNestingWhenRemoteWorkingAndQuarantineWorking.aspx": "The Importance of Nesting when Remote Working and Quarantine Working",
     "https://simpleprogrammer.com/web-development-covid-19/": "The Effects of COVID-19 on the Web Development Industry",
-
-
-
     "https://enterprisecraftsmanship.com/posts/how-to-unit-test-an-abstract-class/": "How to Unit Test an Abstract Class",
     "https://www.meziantou.net/convert-datetime-to-user-s-time-zone-with-server-side-blazor.htm": "Convert DateTime to user's time zone with server-side Blazor",
     "https://www.tpeczek.com/2020/06/json-rpc-in-aspnet-core-with.html": "JSON-RPC in ASP.NET Core With StreamJsonRpc",
@@ -805,8 +738,6 @@
     "https://weblog.west-wind.com/posts/2020/Jun/23/Using-Angulars-Live-Reload-Web-Server-to-Refresh-Pages-on-a-Phone": "Using Angular's Live Reload Web Server to Refresh Pages on a Phone",
     "https://www.danylkoweb.com/Blog/20-20-top-20-programming-lessons-ive-learned-in-20-years-FH": "20/20: Top 20 Programming Lessons I've Learned in 20 Years",
     "https://simpleprogrammer.com/satoshi-nakamoto-changed-world/": "“I Am Satoshi Nakamoto” - How One Programmer Changed the World",
-
-
     "https://www.codewithmukesh.com/blog/repository-pattern-in-aspnet-core/": "Repository Pattern in ASP.NET Core - Ultimate Guide",
     "https://wakeupandcode.com/zero-downtime-web-apps-for-asp-net-core-3-1/": "Zero-Downtime* Web Apps for ASP .NET Core 3.1",
     "https://dotnetcoretutorials.com/2020/07/03/getting-assemblies-is-harder-than-you-think-in-c/": "Getting Assemblies Is Harder Than You Think In C#",
@@ -835,9 +766,6 @@
     "https://exceptionnotfound.net/minesweeper-in-blazor-webassembly-part-2-the-blazor-component/": "Minesweeper in Blazor WebAssembly Part 2: The Blazor Component",
     "https://www.hanselman.com/blog/YoureTiredBecauseYourLizardBrainKnowsThatZoomMeetingsArentNatural.aspx": "You're tired because your lizard brain knows that Zoom meetings aren't natural",
     "https://www.troyhunt.com/sustaining-performance-under-extreme-stress/": "Sustaining Performance Under Extreme Stress",
-
-
-
     "https://christianfindlay.com/2020/07/09/blazor-vs-traditional-web-apps/": "Blazor Vs. Traditional Web Apps",
     "https://khalidabuhakmeh.com/add-custom-database-functions-for-entity-framework-core": "Add Custom Database Functions For Entity Framework Core",
     "https://dotnetcoretutorials.com/2020/07/11/dapper-with-mysql-postgresql-on-net-core/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dapper-with-mysql-postgresql-on-net-core": "Dapper With MySQL/PostgreSQL On .NET Core",
@@ -864,9 +792,6 @@
     "https://exceptionnotfound.net/advertising-is-strangling-the-web-so-im-getting-rid-of-it/": "Advertising is Strangling the Web, So I'm Getting Rid Of It",
     "https://www.danylkoweb.com/Blog/how-to-find-great-tech-deals-QU": "How to Find Great Tech Deals",
     "https://simpleprogrammer.com/rediscover-joy-programming/": "How To Rediscover the Joy of Programming: Tips from an Amateur Coder",
-
-
-
     "https://michaelscodingspot.com/assemblies-load-in-dotnet/": "Understanding How Assemblies Load in C# .NET",
     "https://www.stevejgordon.co.uk/how-is-the-asp-net-core-middleware-pipeline-built": "Deep Dive: How is the ASP.NET Core Middleware Pipeline Built?",
     "https://jimmybogard.com/end-to-end-integration-testing-with-nservicebus-how-it-works/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+GrabBagOfT+%28Jimmy+Bogard%29": "End-to-End Integration Testing with NServiceBus: How It Works",
@@ -896,9 +821,6 @@
     "https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/": "Data Structures &amp; Algorithms I Actually Used Working at Tech Companies",
     "https://www.danylkoweb.com/Blog/remote-work-upgrading-your-workspace-QS?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+DanylkoWeb+%28DanylkoWeb+-+ASP.NET+MVC%2C+Gadgets%2C+and+Business+Lessons%29": "Remote Work: Upgrading Your Workspace",
     "https://simpleprogrammer.com/programming-language-matter/": "Does The Programming Language You Learn Actually Matter",
-
-
-
     "https://www.codewithmukesh.com/blog/microservice-architecture-in-aspnet-core/": "Microservice Architecture in ASP.NET Core with API Gateway",
     "https://christianfindlay.com/2020/07/19/sql-generated-by-entity-framework-core/": "How To Access SQL Generated By Entity Framework Core 3",
     "https://www.meziantou.net/storing-user-settings-in-a-blazor-webassembly-application.htm?utm_medium=social&amp;utm_source=syndication": "Storing user settings in a Blazor WebAssembly application",
@@ -927,9 +849,6 @@
     "https://michaelscodingspot.com/visual-studio-immediate-window/": "5 Tricks You Should Know About Visual Studio's Immediate Window",
     "https://codeblog.jonskeet.uk/2020/07/19/travis-logs-and-net-core-console-output/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+JonSkeetCodingBlog+%28Jon+Skeet%27s+Coding+Blog%29": "Travis logs and .NET Core console output",
     "https://simpleprogrammer.com/left-highly-paid-job/": "Why I left my HIGHLY PAID Software Development Job",
-
-
-
     "https://andrewlock.net/detecting-duplicate-routes-in-aspnetcore/": "Detecting duplicate routes in ASP.NET Core",
     "https://dotnetcoretutorials.com/2020/07/25/a-search-pathfinding-algorithm-in-c/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=a-search-pathfinding-algorithm-in-c": "A* Search PathFinding Algorithm In C#",
     "https://www.meziantou.net/optimizing-js-interop-in-a-blazor-webassembly-application.htm?utm_medium=social&amp;utm_source=syndication": "Optimizing JS Interop in a Blazor WebAssembly application",
@@ -956,9 +875,6 @@
     "https://simpleprogrammer.com/software-developers-miserable/": "Why Software Developers Are So Miserable",
     "https://www.danylkoweb.com/Blog/is-maintaining-easier-than-building-QV": "Is Maintaining Easier than Building?",
     "https://dotnettips.wordpress.com/2020/07/24/the-world-pandemic-is-showing-us-working-remote-works-staying-healthy/": "The World Pandemic is Showing Us Working Remote Works: Staying Healthy",
-
-
-
     "https://dotnetcoretutorials.com/2020/08/07/improved-target-typing-in-c-9/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=improved-target-typing-in-c-9": "Improved Target Typing In C# 9",
     "https://khalidabuhakmeh.com/handle-http-status-codes-with-razor-pages": "Handle HTTP Status Codes With Razor Pages",
     "https://danielhindrikes.se/index.php/2020/08/03/you-only-need-an-onetime-binding/": "You only need an OneTime binding",
@@ -989,8 +905,6 @@
     "https://simpleprogrammer.com/become-a-better-developer-2/": "How To Become A Better Developer",
     "https://simpleprogrammer.com/open-source-crisis-management/": "Can Open Source Help Fight Future Disasters?",
     "https://simpleprogrammer.com/after-remote-work-return-to-office/": "Life After Remote Work: How to Prepare Yourself to Return to the Office",
-
-
     "https://sahansera.dev/dotnet-core-generic-host/": "Understanding .NET Generic Host Model",
     "https://codeopinion.com/migrating-to-net-core-mission-complete/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=migrating-to-net-core-mission-complete": "Migrating to .NET Core: Mission Complete",
     "https://www.meziantou.net/bypass-browser-cache-using-httpclient-in-blazor-webassembly.htm?utm_medium=social&amp;utm_source=syndication": "Bypass HTTP browser cache when using HttpClient in Blazor WebAssembly",
@@ -1013,9 +927,6 @@
     "https://khalidabuhakmeh.com/secrets-of-a-dotnet-professional": "Secrets of a .NET Professional",
     "https://simpleprogrammer.com/self-taught-software-developer/": "How to Become a Self Taught Software Developer",
     "https://simpleprogrammer.com/apis-quality-assurance/": "Using APIs to Leverage QA",
-
-
-
     "https://damienbod.com/2020/08/19/symmetric-and-asymmetric-encryption-in-net-core/": "Symmetric and Asymmetric Encryption in .NET Core",
     "https://asp.net-hacker.rocks/2020/08/20/health-checks.html": "ASP.NET Core Health Checks",
     "https://www.danylkoweb.com/Blog/aspnet-core-building-charts-with-razor-pages-QR": "ASP.NET Core: Building Charts with Razor Pages",
@@ -1043,8 +954,6 @@
     "https://martinfowler.com/articles/patterns-of-distributed-systems/request-pipeline.html": "Distributed Systems Pattern: Request Pipeline",
     "https://www.danylkoweb.com/Blog/what-is-cybercrime-and-how-to-protect-your-business-against-it-R0": "What is Cybercrime and How to Protect Your Business Against It",
     "https://simpleprogrammer.com/the-pros-and-cons-of-one-person-software-development/": "The Pros and Cons of One-Person Software Development",
-
-
     "https://xkcd.com/2348/": "Boat Puzzle",
     "https://andrewlock.net/should-you-unit-test-controllers-in-aspnetcore/": "Should you unit-test API/MVC controllers in ASP.NET Core?",
     "https://www.codewithmukesh.com/blog/rabbitmq-with-aspnet-core-microservice/": "RabbitMQ with ASP.NET Core - Microservice Communication with MassTransit",
@@ -1079,9 +988,6 @@
     "https://simpleprogrammer.com/learn-to-code-best-way/": "How to Learn to CODE. What is the Best Way",
     "https://simpleprogrammer.com/job-hunt-as-a-developer/": "How to Be Realistic and Optimistic During Your First Job Hunt as a Developer",
     "https://simpleprogrammer.com/healthy-software-programmer/": "How To Keep Healthy If You Are A Software Programmer",
-
-
-
     "https://dotnetcoretutorials.com/2020/08/30/top-level-programs-in-c9/": "Top Level Programs In C# 9",
     "https://devblogs.microsoft.com/dotnet/app-trimming-in-net-5/": "App Trimming in .NET 5",
     "https://www.meziantou.net/splitting-code-and-markup-into-different-files-when-creating-a-blazor-component.htm?utm_medium=social&amp;utm_source=syndication": "Splitting code and markup into different files when creating a Blazor component",
@@ -1116,9 +1022,6 @@
     "https://ardalis.com/postels-law-robustness-principle/": "Postel's Law - The Robustness Principle",
     "https://simpleprogrammer.com/underpaid-as-a-programmer/": "Why You Are UNDERPAID As a PROGRAMMER",
     "https://simpleprogrammer.com/client-testimonials-freelance-developer/": "How To Gather Client Testimonials (And What To Do With Them) as a Freelance Developer",
-
-
-
     "https://andrewlock.net/deploying-asp-net-core-applications-to-kubernetes-part-2-configuring-resources-with-yaml-manifests/": "Deploying ASP.NET Core applications to Kubernetes - Part 2",
     "https://michaelscodingspot.com/dotnet-dll-hell/": "Assembly Versioning and DLL Hell in C# .NET: Problems and Solutions",
     "https://www.meziantou.net/copying-text-to-clipboard-in-a-blazor-application.htm?utm_medium=social&amp;utm_source=syndication": "Copying text to the clipboard in a Blazor application",
@@ -1149,9 +1052,6 @@
     "https://khalidabuhakmeh.com/the-importance-of-branding-projects": "The Importance Of Branding Projects",
     "https://www.danylkoweb.com/Blog/yearn-for-the-learn-burn-R3": "Yearn for the Learn Burn",
     "https://simpleprogrammer.com/programmer-impostor-syndrome/": "You're Not a Fake Programmer, That's Just Impostor Syndrome",
-
-
-
     "https://www.stevejgordon.co.uk/dotnet-performance-optimisations-dont-have-to-be-complex": ".NET Performance Optimisations Don't Have to be Complex",
     "https://www.codewithmukesh.com/blog/grpc-in-aspnet-core-getting-started/": "gRPC in ASP.NET Core - Ultimate Guide for Getting Started",
     "https://codeopinion.com/why-use-mediatr-3-reasons-why-and-1-reason-not/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=why-use-mediatr-3-reasons-why-and-1-reason-not": "Why use MediatR? 3 reasons why and 1 reason not",
@@ -1174,9 +1074,6 @@
     "https://exceptionnotfound.net/learning-vim-for-fun-and-profit/": "Just Vim It! Learning Vim For Fun and Profit",
     "https://exceptionnotfound.net/dear-programmers-youre-not-special/": "Dear Programmers, You Are Not F****** Special",
     "https://ardalis.com/estimates-are-waste/": "Estimates Are Waste",
-
-
-
     "https://khalidabuhakmeh.com/aspdotnet-core-localization-jump-start": "ASP.NET Core Localization Jump Start",
     "https://blog.elmah.io/wrapping-javascript-libraries-in-blazor-webassembly-wasm/": "Wrapping JavaScript libraries in Blazor WebAssembly/WASM",
     "https://www.meziantou.net/javascript-isolation-in-blazor-components.htm?utm_medium=social&amp;utm_source=syndication": "JavaScript Isolation in Blazor Components",
@@ -1205,9 +1102,6 @@
     "https://ardalis.com/estimates-are-non-transferable/": "Estimates Are Non-Transferable",
     "https://simpleprogrammer.com/blog-as-a-programmer/": "Why You NEED a BLOG as a Programmer",
     "https://simpleprogrammer.com/more-remote-side-hustle-ideas-programmers/": "5 (More) Remote Side Hustle Ideas Specifically for Programmers",
-
-
-
     "https://christianfindlay.com/2020/09/29/ilogger-nullobject/": "ILogger and Null Object Pattern",
     "https://codeopinion.com/using-hangfire-and-mediatr-as-a-message-dispatcher/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=using-hangfire-and-mediatr-as-a-message-dispatcher": "Using Hangfire and MediatR as a Message Dispatcher",
     "https://nblumhardt.com/2020/10/serilog-expressions-user-defined-functions/": "User-defined functions in Serilog Expressions",
@@ -1238,9 +1132,6 @@
     "https://www.danylkoweb.com/Blog/4-key-cloud-migration-challenges-and-how-to-overcome-them-R6": "4 Key Cloud Migration Challenges and How to Overcome Them",
     "https://simpleprogrammer.com/not-be-awkward-as-a-programmer/": "How to Not Be Awkward In Conversations AS A PROGRAMMER",
     "https://simpleprogrammer.com/keep-going-no-motivation/": "How To Keep Going When You Have No Motivation",
-
-
-
     "https://andrewlock.net/deploying-asp-net-core-applications-to-kubernetes-part-6-adding-health-checks-with-liveness-readiness-and-startup-probes/": "Adding health checks with Liveness, Readiness, and Startup probes: Deploying ASP.NET Core applications to Kubernetes - Part 6",
     "https://weblog.west-wind.com/posts/2020/Oct/05/Creating-a-dotnet-new-Project-Template": "Creating Custom .NET Project Types with dotnet new Project Templates",
     "https://chrissainty.com/building-a-simple-tooltip-component-for-blazor-in-under-10-lines-of-code/": "Building a simple tooltip component for Blazor in under 10 lines of code",
@@ -1272,9 +1163,6 @@
     "https://ardalis.com/estimates-are-wrong/": "Estimates Are Wrong",
     "https://simpleprogrammer.com/ultimate-virtue-life-for-programmers/": "The ULTIMATE Virtue In LIFE (For Programmers Too)",
     "https://simpleprogrammer.com/aws-certified-architect-associate-exam/": "How to Pass AWS Certified Architect Associate Exam",
-
-
-
     "https://khalidabuhakmeh.com/switch-expressions-in-csharp-8": "Ace Switch Expressions in C# 8",
     "https://www.meziantou.net/testing-blazor-components-using-bunit.htm?utm_medium=social&amp;utm_source=syndication": "Testing Blazor components using bUnit",
     "https://michaelscodingspot.com/dynamic-queries/": "Dynamic Queries with Expressions Trees in C#",
@@ -1303,9 +1191,6 @@
     "https://www.hanselman.com/blog/migrating-this-blog-to-azure-its-done-now-the-work-begins": "Migrating this blog to Azure. It's done. Now the work begins.",
     "https://simpleprogrammer.com/leave-your-programming-job/": "How to LEAVE Your Programming Job",
     "https://simpleprogrammer.com/keeping-long-programming-career/": "Effective Tips on Keeping a Long Running Programming Career",
-
-
-
     "https://christianfindlay.com/2020/10/17/how-to-use-fsharp-and-csharp/": "How to Use F# from C#",
     "https://www.codewithmukesh.com/blog/identityserver4-in-aspnet-core/": "IdentityServer4 in ASP.NET Core - Ultimate Beginner's Guide",
     "https://damienbod.com/2020/10/22/using-encrypted-access-tokens-in-azure-with-microsoft-identity-web-and-azure-app-registrations/": "Using encrypted access tokens in Azure with Microsoft.Identity.Web and Azure App registrations",
@@ -1330,9 +1215,6 @@
     "https://christianfindlay.com/2020/10/23/buy-crossplatform-dev-computer/": "How To Buy a Computer for Cross-Platform Development",
     "https://simpleprogrammer.com/passive-income-as-a-programmer/": "How to Make Passive Income as a Programmer",
     "https://simpleprogrammer.com/how-to-acquire-users-for-your-app/": "How To Acquire Users For Your App",
-
-
-
     "https://exceptionnotfound.net/csharp-in-simple-terms-10-interfaces-and-abstract-classes/": "C# in Simple Terms - Interfaces and Abstract Classes",
     "https://khalidabuhakmeh.com/generate-qr-codes-csharp": "Generate QR Codes With C#",
     "https://jimmybogard.com/mind-your-strings-with-net-5-0": "Mind Your Strings with .NET 5.0",
@@ -1357,9 +1239,6 @@
     "https://codeopinion.com/organizing-code-by-feature-using-vertical-slices/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=organizing-code-by-feature-using-vertical-slices": "Organizing Code by Feature using Vertical Slices",
     "https://ardalis.com/shift-risk-left/": "Shift Risk Left",
     "https://simpleprogrammer.com/learn-more-than-1-programming-language/": "Should I Learn More Than 1 Programming Language At Once",
-
-
-
     "https://www.stevejgordon.co.uk/additional-http-sockets-dns-and-tls-telemetry-in-dotnet-5": "Additional HTTP, Sockets, DNS and TLS Telemetry in .NET 5",
     "https://www.meziantou.net/how-to-get-asp-net-core-logs-in-the-output-of-xunit-tests.htm?utm_medium=social&amp;utm_source=syndication": "How to get ASP.NET Core logs in the output of xUnit tests",
     "https://exceptionnotfound.net/csharp-in-simple-terms-13-arrays-and-collections/": "C# in Simple Terms - Arrays and Collections",
@@ -1387,7 +1266,6 @@
     "https://simpleprogrammer.com/becoming-iot-developer/": "The Essential Guide to Becoming an IoT Developer",
     "https://simpleprogrammer.com/start-freelance-programming-career/": "How To Start a Freelance Programming Career",
     "https://simpleprogrammer.com/software-licensing-mistakes-best-practices/": "Software Licensing: Mistakes and Best Practices",
-
     "https://www.mikesdotnetting.com/article/353/implementing-a-custom-model-binder-in-razor-pages": "Implementing a Custom Model Binder In Razor Pages",
     "https://jonhilton.net/blazor-dynamic-components/": "Is it possible to render components \"dynamically\" using Blazor?",
     "https://dotnetcoretutorials.com/2020/11/12/reading-and-writing-pdfs-in-c-with-datalogics-pdf-sdk/": "Reading And Writing PDFs In C# With Datalogics PDF SDK",
@@ -1415,9 +1293,6 @@
     "https://codingsight.com/sql-server-inner-join-basics-with-examples/": "SQL Server Inner Join Basics with Examples",
     "https://simpleprogrammer.com/dont-get-political-as-a-programmer/": "Don't Get Political as a Programmer",
     "https://simpleprogrammer.com/things-programmers-should-avoid/": "13 Things You Should Give Up if You Want To Be a Successful Developer",
-
-
-
     "https://blog.elmah.io/call-anonymous-c-functions-from-js-in-blazor-wasm/": "Call anonymous C# functions from JS in Blazor WASM",
     "https://khalidabuhakmeh.com/resolve-multiple-types-in-aspnetcore": "Resolve Multiple Types In ASP.NET Core",
     "https://dailydotnettips.com/restoring-a-deleted-project-in-azure-devops-video-tip/": "Restoring a Deleted Project in Azure DevOps - Video Tip",
@@ -1443,9 +1318,6 @@
     "https://www.hanselman.com/blog/how-to-change-the-background-of-your-windows-terminal-settings": "How to change the background of your Windows Terminal settings",
     "https://simpleprogrammer.com/feel-like-giving-up/": "If You Feel Like Giving Up WATCH THIS NOW",
     "https://www.hanselman.com/blog/creating-a-question-friendly-environment": "Creating a question friendly environment",
-
-
-
     "https://enterprisecraftsmanship.com/posts/csharp-records-value-objects/": "C# 9 Records as DDD Value Objects",
     "https://dotnetcoretutorials.com/2020/11/24/using-channels-in-net-core-part-1-getting-started/": "Using Channels In .NET Core - Part 1 - Getting Started",
     "https://jonhilton.net/better-csharp-tests-lightbdd/": "Tests are hard, LightBDD can help",
@@ -1474,9 +1346,6 @@
     "https://simpleprogrammer.com/succeeding-as-a-junior-developer/": "Succeeding as a Junior Developer",
     "https://simpleprogrammer.com/flowcharts-for-programmers/": "Why Flowcharts Should be a Developer's Best Friend",
     "https://simpleprogrammer.com/become-net-full-stack-developer/": "Should You Become a .NET Full-Stack Developer?",
-
-
-
     "https://andrewlock.net/using-quartz-net-with-asp-net-core-and-worker-services/": "Using Quartz.NET with ASP.NET Core and worker services",
     "https://dotnetthoughts.net/openapi-and-versioning-asp-net-core/": "OpenAPI and Versioning for ASP.NET Core Web API",
     "https://devblogs.microsoft.com/dotnet/improving-debug-time-productivity-with-source-link/": "Improving Debug-time Productivity with Source Link",
@@ -1502,9 +1371,6 @@
     "https://dotnettips.wordpress.com/2020/12/02/the-full-stack-developer-is-a-myth-in-2020/": "The “Full-Stack” Developer is a Myth in 2020",
     "https://simpleprogrammer.com/niche-down-as-a-beginning-programmer/": "Should I Niche Down as a Beginning Programmer",
     "https://simpleprogrammer.com/developers-mental-physical-health/": "7 Tips to Stay Healthy as a Software Developer",
-
-
-
     "https://khalidabuhakmeh.com/common-usecases-for-dotnet-reflection": "Common Use Cases For .NET Reflection",
     "https://blog.elmah.io/predicting-die-hard-fans-with-ml-net-and-csharp/": "Predicting Die Hard fans with ML.NET and C#",
     "https://dotnetcoretutorials.com/2020/12/10/simplifying-multithreaded-scenarios-with-postsharp-threading/": "Simplifying Multithreaded Scenarios With PostSharp Threading",
@@ -1531,9 +1397,6 @@
     "http://codingsonata.com/curated-net-developers-and-blogs-to-follow-in-2021/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=curated-net-developers-and-blogs-to-follow-in-2021": "Curated .NET Developers and Blogs to Follow in 2021",
     "https://simpleprogrammer.com/not-get-scammed-as-a-programmer/": "How to not get SCAMMED as a FREELANCER Programmer",
     "https://simpleprogrammer.com/benefits-of-building-coding-projects/": "How To Build a Project and Then Use It To Land a Job",
-
-
-
     "https://www.stevejgordon.co.uk/playing-with-csharp-9-top-level-programs-records-and-elasticsearch-dotnet": "Playing with C#9 Top-level Programs, Records and Elasticsearch.NET",
     "http://danylkoweb.com/Blog/microsoft-identity-claims-building-the-ui-part-3-RE": "Microsoft Identity Claims: Building the UI, Part 3",
     "https://devblogs.microsoft.com/dotnet/localize-net-applications-with-machine-translation/": "Localize .NET applications with machine-translation",
@@ -1554,8 +1417,6 @@
     "https://devblogs.microsoft.com/dotnet/creating-a-game-art-asset-pipeline-in-net/": "Creating a game art asset pipeline in .NET",
     "https://www.hanselman.com/blog/the-art-of-rubber-ducking-or-rubber-duck-debugging": "The art of Rubber Ducking or Rubber Duck Debugging",
     "http://wildermuth.com/2020/12/15/Hello-World-Has-Been-Released!": "Hello World Has Been Released!",
-
-
     "https://khalidabuhakmeh.com/avoid-csharp-9-record-gotchas": "Avoid C# 9 Record Gotchas",
     "https://christianfindlay.com/2020/12/21/net-standard/": "Why .NET Standard Is Still Relevant",
     "https://thomaslevesque.com/2020/12/23/csharp-9-records-as-strongly-typed-ids-part-4-entity-framework-core-integration/": "C# 9 records as strongly-typed ids - Part 4: Entity Framework Core integration",
@@ -1570,9 +1431,6 @@
     "http://aspnetmonsters.com/2020/12/monsters-weekly%5Cep200b/": "Monsters Weekly 200b - Conversations with Julie Lerman",
     "https://www.hanselman.com/blog/taking-your-powershell-prompt-to-the-next-level-with-windows-terminal-and-oh-my-posh-3": "Taking your PowerShell prompt to the next level with Windows Terminal and Oh my Posh 3",
     "https://simpleprogrammer.com/future-cloud-computing/": "Get Your Head in The Cloud - Why Developers and Designers Need to Sign Up For AWS",
-
-
-
     "https://codewithmukesh.com/blog/audit-trail-implementation-in-aspnet-core/": "Audit Trail Implementation in ASP.NET Core with Entity Framework Core",
     "https://6figuredev.com/podcast/episode-176-rest-apis-with-irina-scurtu/": "Episode 176 - REST APIs with Irina Scurtu",
     "https://blog.dotnetframework.org/2020/12/30/record-mp4-h264-video-from-a-webcam-in-c-net-core/": "Record #Mp4 #H264 video from a webcam in C# (.NET Core)",
@@ -1583,9 +1441,6 @@
     "https://markheath.net/post/coord-performance-versus-readability": "Storing coordinates in C# - Performance versus readability",
     "https://devblogs.microsoft.com/devops/azurefunbytes-modernizing-your-apps-with-containers/": "AzureFunBytes - Modernizing Your Apps With Containers",
     "https://blog.pragmaticengineer.com/want-to-start-a-startup-sell-something-online/": "Want to Start a Startup, as a Software Engineer? Sell Something Online.",
-
-
-
     "https://khalidabuhakmeh.com/entity-framework-core-5-interceptors": "Entity Framework Core 5 Interceptors",
     "https://sahansera.dev/understanding-websockets-with-aspnetcore-5/": "Understanding WebSockets with ASP.NET Core",
     "https://devblogs.microsoft.com/dotnet/wsfederationhttpbinding-in-net-standard-wcf/": "WSFederationHttpBinding in .NET Standard",
@@ -1610,9 +1465,6 @@
     "http://ian.bebbs.co.uk/posts/UsingGMailForCustomDomainEmail": "Using Gmail To Send Email From A Custom Domain",
     "https://simpleprogrammer.com/cybersecurity-skills-for-developers/": "10 Reasons You Need Developers With Cybersecurity Skills",
     "https://simpleprogrammer.com/how-to-restart-your-developer-career-after-a-long-break/": "How to Restart Your Developer Career After a Long Break",
-
-
-
     "https://enterprisecraftsmanship.com/posts/always-valid-domain-model/": "Always-Valid Domain Model",
     "https://www.thereformedprogrammer.net/updating-many-to-many-relationships-in-ef-core-5-and-above/": "Updating many-to-many relationships in EF Core 5 and above",
     "https://damienbod.com/2021/01/11/protecting-legacy-apis-with-an-asp-net-core-yarp-reverse-proxy-and-azure-ad-oauth/": "Protecting legacy APIs with an ASP.NET Core Yarp reverse proxy and Azure AD OAuth",
@@ -1641,8 +1493,6 @@
     "https://www.stevejgordon.co.uk/how-to-become-a-better-developer-by-asking-questions": "How to Become a Better Developer by Asking Questions",
     "https://devblogs.microsoft.com/devops/developing-with-confidence-even-in-an-abstracted-world/": "Developing with Confidence (even in an Abstracted world)",
     "https://simpleprogrammer.com/minimum-guide-deep-learning/": "Deep Learning: The Absolute Minimum an Interested Developer Should Know",
-
-
     "https://andrewlock.net/enabling-prerendering-for-blazor-webassembly-apps/": "Enabling prerendering for Blazor WebAssembly apps",
     "https://rehansaeed.com/deep-dive-into-open-telemetry-for-net/": "Deep Dive into Open Telemetry for .NET",
     "https://www.meziantou.net/canceling-background-tasks-when-a-user-navigates-away-from-a-blazor-component.htm?utm_medium=social&amp;utm_source=syndication": "Canceling background tasks when a user navigates away from a Blazor component",
@@ -1667,7 +1517,6 @@
     "https://martinfowler.com/articles/patterns-of-distributed-systems/state-watch.html": "Distributed Systems Pattern: State Watch",
     "https://simpleprogrammer.com/7-tools-improve-web-development-workflow/": "Top 7 Tools To Improve Your Web Development Workflow",
     "https://simpleprogrammer.com/5-practical-tips-for-your-tech-resume/": "5 Practical Tips For Your Tech Resume",
-
     "https://jimmybogard.com/choosing-a-servicelifetime": "Choosing a ServiceLifetime",
     "https://khalidabuhakmeh.com/dotnet-5-source-generators-jump-start": ".NET 5 Source Generators Jump Start",
     "https://dotnetthoughts.net/ab-testing-azure-app-service/": "A/B Testing with App Service",
@@ -1695,7 +1544,6 @@
     "https://codingsight.com/git-tips-and-best-practices-for-beginners/": "Git Tips &amp; Best Practices for Beginners",
     "https://ardalis.com/choose-excitement-over-fear/": "Choose Excitement over Fear",
     "https://simpleprogrammer.com/finding-a-job-during-pandemic-for-programmers/": "Finding a Job During a Pandemic for Programmers",
-
     "https://exceptionnotfound.net/blackjack-in-blazor-part-3-game-state-and-blazor-components/": "Blackjack in Blazor Part 3 - Game State and Blazor Components",
     "https://andrewlock.net/finding-all-routable-components-in-a-webassembly-app/": "Finding all routable components in a Blazor App",
     "https://codeopinion.com/write-stable-code-using-coupling-metrics/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=write-stable-code-using-coupling-metrics": "Write Stable Code using Coupling Metrics",
@@ -1717,9 +1565,6 @@
     "https://codingsight.com/sql-server-delete-removing-one-or-more-rows-from-table/": "SQL Server DELETE - Removing One or More Rows from a Table",
     "https://michaelscodingspot.com/what-i-learned-about-c-from-job-interviews/": "What I Learned About C# From Job Interviews",
     "https://simpleprogrammer.com/challenges-working-remotely/": "5 Challenges for Software Developers Working Remotely",
-
-
-
     "https://dotnetthoughts.net/realtime-apps-on-angular-with-aspnetcore-and-signalr/": "Building real-time applications on Angular with ASPNET Core and SignalR",
     "https://ardalis.com/keep-tests-short-and-dry-with-extensions/": "Keep Tests Short and DRY with Extension Methods",
     "https://rehansaeed.com/exporting-open-telemetry-data-to-jaeger/": "Exporting Open Telemetry Data to Jaeger",
@@ -1747,9 +1592,6 @@
     "https://asp.net-hacker.rocks/2021/02/04/remote-docker.html": "Working inside a Docker container using Visual Studio Code",
     "https://www.stevejgordon.co.uk/dream-big-three-months-in-at-elastic": "Dream Big: Three Months in at Elastic",
     "https://simpleprogrammer.com/remote-work-model-2021/": "How the World of Remote Work Will Change in 2021",
-
-
-
     "https://khalidabuhakmeh.com/playing-the-super-mario-bros-theme-with-csharp": "Playing The Super Mario Bros. Theme With C#",
     "https://blog.elmah.io/export-data-from-google-analytics-with-net/": "Export data from Google Analytics with .NET",
     "https://andrewlock.net/using-source-generators-to-generate-a-nav-component-in-a-blazor-app/": "Using source generators to generate a menu component in a Blazor app",
@@ -1781,9 +1623,6 @@
     "https://devblogs.microsoft.com/dotnet/staying-safe-with-dotnet-containers/": "Staying safe with .NET containers",
     "https://simpleprogrammer.com/git-relevant-in-2021/": "Why Git is Still Relevant in 2021, and Will Be for a Long Time",
     "https://simpleprogrammer.com/pros-cons-open-source-software/": "The Pros and Cons of Open-Source Software",
-
-
-
     "https://www.stevejgordon.co.uk/aspnet-core-dependency-injection-what-is-the-iserviceprovider-and-how-is-it-built": "ASP.NET Core Dependency Injection: What is the IServiceProvider and how is it Built?",
     "https://christianfindlay.com/2021/02/25/choose-asp-net-core-in-2021/": "Choose ASP.NET Core in 2021",
     "https://blog.elmah.io/how-to-implement-two-factor-authentication-with-asp-net-core/": "How to implement two-factor authentication in ASP.NET Core",
@@ -1816,9 +1655,6 @@
     "https://www.danylkoweb.com/Blog/writing-code-RQ": "Writing Code",
     "https://simpleprogrammer.com/ethical-hacking-career/": "What You Should Know Before Embarking on an Ethical Hacking Career",
     "https://simpleprogrammer.com/reasons-to-become-a-software-developer-2021/": "6 Reasons Why It's Worth Becoming a Software Developer in 2021",
-
-
-
     "https://jonhilton.net/razor-pages-components/": "Razor Pages has Components too don't you know!",
     "https://khalidabuhakmeh.com/raw-sql-queries-with-ef-core-5": "Raw SQL Queries With Entity Framework Core 5",
     "https://dotnetthoughts.net/upload-files-dot-net-core-angular/": "Uploading Files With ASP.NET Core and Angular",
@@ -1847,8 +1683,6 @@
     "https://exceptionnotfound.net/passion-not-required-its-ok-to-only-program-for-a-paycheck/": "Passion Not Required: It's OK to Only Program for a Paycheck",
     "https://simpleprogrammer.com/in-demand-programming-skills-2021/": "5 In-Demand Programming Skills To Acquire in 2021",
     "https://simpleprogrammer.com/highest-paid-software-engineer-jobs-2021/": "10 Top Highest-Paid Software Engineer Jobs in 2021",
-
-
     "https://weblog.west-wind.com/posts/2021/Mar/09/Role-based-JWT-Tokens-in-ASPNET-Core": "Role-based JWT Tokens in ASP.NET Core",
     "https://damienbod.com/2021/03/08/securing-blazor-web-assembly-using-cookies/": "Securing Blazor Web assembly using cookies",
     "https://khalidabuhakmeh.com/community-question-working-with-data-in-an-http-api": "Community Question: Working With Data In An HTTP API",
@@ -1872,9 +1706,6 @@
     "https://www.hanselman.com/blog/penny-pinching-in-the-cloud-azure-static-web-apps-are-saving-me-money": "Penny Pinching in the Cloud: Azure Static Web Apps are saving me money",
     "https://andrewlock.net/installing-docker-desktop-for-windows/": "Installing Docker Desktop for Windows and WSL 2",
     "https://simpleprogrammer.com/app-development-pricing-2021/": "How Much Does It Cost To Build an App in 2021",
-
-
-
     "https://khalidabuhakmeh.com/resolve-services-in-aspnet-core-startup": "Resolve Services In ASP.NET Core Startup",
     "https://blog.elmah.io/avoid-password-reuse-with-pwned-passwords-and-asp-net-core/": "Avoid password reuse with Pwned Passwords and ASP.NET Core",
     "https://blog.dotnetframework.org/2021/03/18/server-side-templating-in-net-core-with-razor/": "Server-side templating in .NET Core with #Razor",
@@ -1899,9 +1730,6 @@
     "https://dotnetcoretutorials.com/2021/03/13/getting-setup-with-net-6-preview/": "Getting Setup With .NET 6 Preview",
     "https://codingsight.com/5-no-hassle-tips-to-run-sql-update-with-join/": "5 No-Hassle Tips to Run SQL UPDATE with JOIN",
     "https://simpleprogrammer.com/build-a-corporate-website-developer/": "How To Build a Corporate Website That Can Help Your Career as a Developer",
-
-
-
     "https://www.stevejgordon.co.uk/getting-started-with-the-roslyn-apis-writing-code-with-code": "Getting Started with the Roslyn APIs: Writing Code with Code",
     "https://daveabrock.com/2021/03/17/blast-off-blazor-add-dialog": "Blast Off with Blazor: Add a shared dialog component",
     "https://swimburger.net/blog/dotnet/create-zip-files-on-http-request-without-intermediate-files-using-aspdotnet-mvc-razor-pages-and-endpoints": "Create ZIP files on HTTP request without intermediate files using ASP.NET MVC, Razor Pages, and endpoints",
@@ -1922,9 +1750,6 @@
     "https://6figuredev.com/podcast/episode-188-designing-for-scale-with-james-avery/": "Episode 188 - Designing for Scale with James Avery",
     "https://www.hanselman.com/blog/visual-studio-hotkeys-at-the-powershell-command-line-in-windows-terminal": "Visual Studio hotkeys at the PowerShell command line in Windows Terminal",
     "https://simpleprogrammer.com/soft-skills-developers-growing-career/": "Soft Skills for Developers: Your Guide To Getting and Growing a Career",
-
-
-
     "https://enterprisecraftsmanship.com/posts/static-methods-evil/": "Static methods considered evil?",
     "https://michaelscodingspot.com/maximizing-the-power-of-logs-as-your-application-scales/": "Maximizing the power of logs as your application scales",
     "https://dotnetthoughts.net/page-remote-validation-aspnetcore-identity/": "Page Remote Validation in ASP.NET Core Identity",
@@ -1949,9 +1774,6 @@
     "https://daveabrock.com/2021/03/27/dotnet-stacks-42": "The .NET Stacks #42: 🔌 When Active Directory isn't so active",
     "https://simpleprogrammer.com/programming-student-skills-2021/": "5 Skills Students Need to Get Their First Programming Job in 2021",
     "https://www.danylkoweb.com/Blog/location-location-location-where-to-place-code-RS": "Location, Location, Location: Where to place code",
-
-
-
     "https://khalidabuhakmeh.com/modeling-most-sql-relationships-in-entity-framework-core": "Modeling Most SQL Relationships In Entity Framework Core",
     "https://codeopinion.com/smarter-single-page-application-with-a-rest-api/": "Smarter Single Page Application with a REST API",
     "https://daveabrock.com/2021/04/08/blazor-dynamic-component": "Working with the Blazor DynamicComponent",
@@ -1976,9 +1798,6 @@
     "https://blog.dotnetframework.org/2021/04/07/determine-a-users-country-from-their-ip-in-javascript/": "Determine a user's country from their IP in #Javascript",
     "https://ardalis.com/speed-up-docker-compose-with-parallel-builds/": "Speed Up Docker Compose with Parallel Builds",
     "https://daveabrock.com/2021/04/01/static-web-apps-azure-pipelines": "Use Azure Static Web Apps with Azure DevOps pipelines",
-
-
-
     "https://andrewlock.net/viewing-overriden-configuration-values-in-aspnetcore/": "Viewing overwritten configuration values in ASP.NET Core",
     "https://damienbod.com/2021/04/12/securing-blazor-web-assembly-using-cookies-and-auth0/": "Securing Blazor Web assembly using Cookies and Auth0",
     "https://dailydotnettips.com/top-level-statement-in-c-9-0/": "Top Level Statement in C# 9.0",
@@ -2005,9 +1824,6 @@
     "https://simpleprogrammer.com/7-things-first-developer-job/": "7 Things I Wish I Knew When I Applied for My First Developer Job",
     "https://www.danylkoweb.com/Blog/creating-value-as-a-freelancer-RN": "Creating Value as a Freelancer",
     "https://www.meziantou.net/tracking-cloudflare-requests-using-application-insights.htm?utm_medium=social&amp;utm_source=syndication": "Tracking Cloudflare Worker requests using Application Insights",
-
-
-
     "https://dotnetthoughts.net/asp-net-core-5-0-authentication-with-azure-active-directory/": "ASP.NET Core 5.0 Authentication with Azure Active Directory",
     "https://blog.elmah.io/rendering-dynamic-content-in-blazor-wasm-using-dynamiccomponent/": "Rendering dynamic content in Blazor Wasm using DynamicComponent",
     "https://devblogs.microsoft.com/dotnet/loop-alignment-in-net-6-2/": "Loop alignment in .NET 6",
@@ -2033,10 +1849,6 @@
     "https://blog.dotnetframework.org/2021/04/20/alternative-to-rotating-proxies-using-aws-api-gateway-and-fireprox/": "Alternative to rotating proxies using #AWS API Gateway and #FireProx",
     "https://ardalis.com/add-imgbot-to-github-repository/": "Add ImgBot to your GitHub Repository",
     "https://simpleprogrammer.com/increase-employability-programmer/": "4 Areas of Knowledge To Increase Your Employability as a Programmer",
-
-
-
-
     "https://codewithmukesh.com/blog/specification-pattern-in-aspnet-core/": "Specification Pattern in ASP.NET Core - Enhancing Generic Repository Pattern",
     "http://danylkoweb.com/Blog/5-tools-to-identify-aspnet-performance-issues-RU": "5 Tools to Identify ASP.NET Performance Issues",
     "https://www.meziantou.net/convert-svg-files-to-png-or-jpeg-using-dotnet.htm?utm_medium=social&amp;utm_source=syndication": "Convert SVG files to PNG or JPEG using .NET",
@@ -2063,8 +1875,6 @@
     "https://codingsight.com/sql-server-express-edition-definition-benefits-limitations/": "SQL Server Express Edition - Definition, Benefits, and Limitations",
     "https://simpleprogrammer.com/cultural-change-ai-and-big-data/": "Why Is a Cultural Change Vital To Prepare for AI and Big Data?",
     "https://simpleprogrammer.com/inspiration-creativity-software-developer/": "How To Follow Your Inspiration and Create Great Things as a Software Developer",
-
-
     "https://blog.elmah.io/adding-captcha-on-form-posts-with-asp-net-core/": "Adding CAPTCHA on form posts with ASP.NET Core",
     "https://khalidabuhakmeh.com/what-is-razor-aspnet": "What Is Razor - ASP.NET",
     "https://www.meziantou.net/debouncing-throttling-javascript-events-in-a-blazor-application.htm": "Debouncing / Throttling JavaScript events in a Blazor application",
@@ -2084,9 +1894,6 @@
     "https://ardalis.com/simple-systems-galls-law/": "Simple Systems and Gall's Law",
     "https://codingsight.com/understanding-sql-server-database-errors/": "Understanding the SQL Server Database Errors",
     "https://www.danylkoweb.com/Blog/how-do-i-get-into-programming-RD": "How do I get into programming?",
-
-
-
     "https://codewithmukesh.com/blog/global-exception-handling-in-aspnet-core/": "Global Exception Handling in ASP.NET Core - Ultimate Guide",
     "https://www.stevejgordon.co.uk/getting-started-with-github-actions-for-dotnet-developers": "Getting Started with GitHub Actions for .NET Developers",
     "https://codeopinion.com/problem-details-for-better-rest-http-api-errors/": "Problem Details for Better REST HTTP API Errors",
@@ -2113,9 +1920,6 @@
     "https://www.thereformedprogrammer.net/evolving-modular-monoliths-2-breaking-up-your-app-into-multiple-solutions/": "Evolving modular monoliths: 2. Breaking up your app into multiple solutions",
     "https://dotnetthoughts.net/publish-your-first-image-to-azure-container-registry/": "Publish your first docker image to Azure Container Registry",
     "https://simpleprogrammer.com/student-app-education/": "Complete Guide for Students to Developing the Right Apps",
-
-
-
     "https://damienbod.com/2021/05/24/secure-an-angular-spa-and-an-asp-net-core-api-using-auth0/": "Secure an Angular SPA and an ASP.NET Core API using Auth0",
     "https://khalidabuhakmeh.com/the-difference-between-html-and-url-encode-in-dotnet": "The Difference Between HTML and URL Encode In .NET",
     "https://www.scottbrady91.com/c-sharp/aes-gcm-dotnet": "Authenticated Encryption in .NET with AES-GCM",
@@ -2145,9 +1949,6 @@
     "https://devblogs.microsoft.com/dotnet/show-dotnet-investigating-alpine-linux-cves-in-net-container-images/": "Show dotnet: Investigating Alpine Linux CVEs in .NET container images",
     "https://dailydotnettips.com/the-fastest-way-to-get-started-with-microsoft-azure/": "The fastest way to get started with Microsoft Azure",
     "https://simpleprogrammer.com/7-leadership-skills-senior-developer/": "7 Leadership Skills for Junior Developers: How To Prepare for a Senior Role",
-
-
-
     "https://andrewlock.net/benchmarking-4-reflection-methods-for-calling-a-constructor-in-dotnet/": "Benchmarking 4 reflection methods for calling a constructor in .NET",
     "https://enterprisecraftsmanship.com/posts/nulls-in-value-objects/": "Nulls in Value Objects",
     "https://devblogs.microsoft.com/dotnet/conversation-about-the-net-type-system/": "Conversation about the .NET type system",
@@ -2173,9 +1974,6 @@
     "https://devblogs.microsoft.com/dotnet/conversation-about-net-interop/": "Conversation about .NET interop",
     "https://dailydotnettips.com/remove-unused-references-clean-up-project-references-and-nuget-packages-in-visual-studio/": "Remove Unused References - Clean up project references and NuGet packages in Visual Studio",
     "https://ardalis.com/what-if-product-owners-reported-to-dev-teams/": "What If Product Owners Reported to Dev Teams?",
-
-
-
     "https://nblumhardt.com/2021/06/customize-serilog-text-output/": "Customizing Serilog text output",
     "https://dotnetthoughts.net/minimal-api-in-aspnet-core-mvc6/": "Minimal APIs in ASP.NET Core 6.0",
     "https://dailydotnettips.com/command-line-arguments-and-c-9-0-top-level-statement-visual-studio/": "Command Line Arguments and C# 9.0 Top Level Statement - Visual Studio",
@@ -2198,9 +1996,6 @@
     "https://www.danylkoweb.com/Blog/knowing-where-to-hit-OX": "Knowing Where To Hit",
     "https://simpleprogrammer.com/avoid-ghosting-clients/": "Feeling Haunted? How To Deal With Ghosting Clients",
     "https://simpleprogrammer.com/teaching-your-kids-to-code/": "Teaching Your Kids To Code: Actionable Advice for Parents",
-
-
-
     "https://www.meziantou.net/caching-enum-tostring-to-improve-performance.htm?utm_medium=social&amp;utm_source=syndication": "Caching Enum.ToString to improve performance",
     "https://khalidabuhakmeh.com/csharp-pattern-matching-quick-guide-and-examples": "C# Pattern Matching Quick Guide And Examples",
     "https://weblog.west-wind.com/posts/2021/Jun/15/Running-NET-Core-Apps-on-a-Framework-other-than-Compiled-Version": "Running .NET Core Apps on a Framework other than Compiled Version?",
@@ -2227,9 +2022,6 @@
     "https://dotnetthoughts.net/deploying-a-static-webapp-via-azure-devops-pipeline/": "Deploying a Static Web App via Azure DevOps Pipeline",
     "https://codingsight.com/primary-and-foreign-keys-for-sql-derver-performance-tuning/": "A Simple Use Case for Indexes on Primary Keys",
     "https://www.infoq.com/news/2021/06/team-communication-safety/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global": "How to Improve your Team's Communication and Psychological Safety",
-
-
-
     "https://nblumhardt.com/2021/06/customize-serilog-json-output/": "Customized JSON formatting with Serilog",
     "https://dotnetcoretutorials.com/2021/06/19/mocks-vs-stubs-vs-fakes-in-unit-testing/": "Mocks vs Stubs vs Fakes In Unit Testing",
     "https://exceptionnotfound.net/solitaire-in-blazor-part-3-drawing-discarding-and-the-stacks/": "Solitaire in Blazor Part 3 - Drawing, Discarding, and the Stacks",
@@ -2256,9 +2048,6 @@
     "https://ardalis.com/improving-method-function-clarity/": "Improving Method and Function Clarity",
     "http://danylkoweb.com/Blog/hard-work--kindness--luck-or-opportunity-RB": "Hard Work + Kindness = Luck (or opportunity)",
     "https://simpleprogrammer.com/programming-efficiently/": "10 Tips for Programmers To Work More Efficiently",
-
-
-
     "https://andrewlock.net/conditional-compilation-for-ignoring-method-calls-with-the-conditionalattribute/": "Conditional compilation for ignoring method calls with the ConditionalAttribute",
     "https://www.meziantou.net/infinite-scrolling-in-blazor.htm?utm_medium=social&amp;utm_source=syndication": "Infinite scrolling in Blazor",
     "https://blog.dotnetframework.org/2021/07/01/generate-video-from-collection-of-images-in-c-ffmpeg/": "Generate video from a collection of images in C# #FFMPEG",
@@ -2275,9 +2064,6 @@
     "https://devblogs.microsoft.com/dotnet/net-framework-june-2021-cumulative-update-preview-2/": ".NET Framework June 2021 Cumulative Update Preview",
     "https://dotnetthoughts.net/improving-angular-ci-build-time-using-azure-devops/": "Improving Angular CI Build Time Using Azure DevOps Cache task",
     "https://simpleprogrammer.com/earn-money-programmer-personal-brand/": "How To Earn Money From Your Programmer Personal Brand in 2021",
-
-
-
     "https://www.stevejgordon.co.uk/how-does-the-stringbuilder-work-in-dotnet-part-1": "How Does the StringBuilder Work in .NET? (Part 1)",
     "http://dontcodetired.com/blog/post/ICYMI-C-9-New-Features-Adding-foreach-Support-To-Any-Type": "ICYMI C# 9 New Features: Adding foreach Support To Any Type",
     "https://dotnetthoughts.net/openapi-support-for-aspnetcore-minimal-webapi/": "Open API support for ASP.NET Core Minimal API",
@@ -2297,9 +2083,6 @@
     "https://codeopinion.com/clean-architecture-example-breakdown/": "Clean Architecture Example &amp; Breakdown",
     "https://weblog.west-wind.com/posts/2021/Jul/07/Thoughts-on-AsyncAwait-Conversion-in-a-Desktop-App": "Thoughts on Async/Await Conversion in a Desktop App",
     "https://simpleprogrammer.com/failing-to-learn-programming/": "Why You Are FAILING To Learn Programming",
-
-
-
     "https://dotnetcoretutorials.com/2021/07/16/building-minimal-apis-in-net-6/": "Building Minimal APIs In .NET 6",
     "https://asp.net-hacker.rocks/2021/07/12/aspnetcore6-hot-reload.html": "ASP.​NET Core in .NET 6 - Hot Reload",
     "https://askxammy.com/getting-started-with-a-ui-and-not-die-trying-in-xamarin-forms/": "Getting started with a UI and not die trying in Xamarin Forms",
@@ -2321,9 +2104,6 @@
     "https://dotnettips.wordpress.com/2021/07/10/new-code-rules-work-environment-for-software-engineers/": "New Code Rules: Work Environment for Software Engineers",
     "https://dotnettips.wordpress.com/2021/07/15/when-are-companies-going-to-learn-how-software-development-works/": "When Are Companies Going to Learn How Software Development Works?",
     "https://simpleprogrammer.com/risk-management-software-development/": "Understanding and Managing Risk in Software Development",
-
-
-
     "https://andrewlock.net/a-deep-dive-on-stringbuilder-part-2-appending-strings-built-in-types-and-lists/": "Appending strings, built-in types, and lists: A deep dive on StringBuilder - Part 2",
     "https://khalidabuhakmeh.com/blazor-and-cancelling-asynchronous-calls-with-cancellationtokensource": "Blazor and Cancelling Asynchronous Calls With CancellationTokenSource",
     "https://www.daveabrock.com/2021/07/21/blazor-error-boundaries/": " Unhandled Exceptions in Blazor Server with Error Boundaries ",
@@ -2338,9 +2118,6 @@
     "https://codingsight.com/sql-server-round-function-what-its-for-and-why-should-you-care/": "SQL Server ROUND() Function: What It's For and Why Should You Care?",
     "https://www.troyhunt.com/your-work-email-address-is-your-works-email-address/": "Your Work Email Address is Your Work's Email Address",
     "https://simpleprogrammer.com/building-community-around-mobile-app/": "3 Tips on Building a Thriving Community Around Your Mobile App",
-
-
-
     "https://exceptionnotfound.net/creating-a-dapper-helper-csharp-class-to-generate-parameterized-sql-inserts-and-updates/": "Creating a Dapper Helper C# Class to Generate Parameterized SQL ",
     "https://codingsight.com/xml-made-easy-linq-to-xml/": "XML Made Easy - LINQ to XML",
     "https://dotnettips.wordpress.com/2021/07/24/analyzing-code-for-issues-net-memory-profiler/": "Analyzing Code for Issues: .NET Memory Profiler",
@@ -2362,9 +2139,6 @@
     "https://azure.microsoft.com/blog/optimize-your-cloud-spend-with-azure/": "Optimize your cloud spend with Azure",
     "https://simpleprogrammer.com/new-generation-of-software-developers/": "No Time Like the Present - Why We Need a New Generation of Software Developers",
     "https://simpleprogrammer.com/cost-to-build-shopping-app/": "How Much Does It Cost To Build a Shopping App?",
-
-
-
     "https://christianfindlay.com/2021/07/30/stop-nullreferenceexceptions/": "How to Stop NullReferenceExceptions in .NET: Implementing Nullable Reference Types",
     "https://www.meziantou.net/upload-files-with-drag-drop-or-paste-from-clipboard-in-blazor.htm?utm_medium=social&amp;utm_source=syndication": "Upload files with drag &amp; drop or paste from the clipboard in Blazor",
     "https://swimburger.net/blog/dotnet/generic-bubble-sort-in-csharp-dotnet": "Generic Bubble Sort in C# .NET",
@@ -2420,10 +2194,6 @@
     "https://simpleprogrammer.com/significance-coding-in-data-science/": "Deciphering the Significance of Coding in Data Science",
     "https://simpleprogrammer.com/tech-stack-for-6-figures/": "How To Choose Your Tech Stack For 6-Figures",
     "https://ardalis.com/writing-efficiently/": "Writing Efficiently",
-
-
-
-
     "https://ardalis.com/script-new-dotnet-solution-from-cli/": "How to Create a new Solution and Projects using dotnet CLI",
     "https://michaelscodingspot.com/productivity-in-resharper-and-rider/": "6 Hidden Productivity Gems in Resharper and Rider",
     "https://askxammy.com/adding-shadows-with-xamarin-community-toolkit/": "Adding Shadows with Xamarin Community Toolkit",
@@ -2446,10 +2216,6 @@
     "https://simpleprogrammer.com/get-more-client-referrals/": "How To Get More Clients as a Programmer by Becoming Referable",
     "https://simpleprogrammer.com/seo-guide-blogging-developers/": "The Simple SEO Guide for Blogging Developers",
     "https://simpleprogrammer.com/prepare-for-a-programming-interview/": "How to Prepare For a Programming Interview",
-
-
-
-
     "https://dotnetcoretutorials.com/2021/08/31/implicit-using-statements-in-net-6/": "Implicit Using Statements In .NET 6",
     "https://codewithmukesh.com/blog/multitenancy-in-aspnet-core/": "Multitenancy in ASP.NET Core - Simplest Way to achieve Multitenancy",
     "https://blog.elmah.io/stream-large-content-from-asp-net-core-to-avoid-outofmemoryexception/": "Stream large content from ASP.NET Core to avoid OutOfMemoryException ",
@@ -2474,9 +2240,6 @@
     "https://simpleprogrammer.com/cost-to-build-streaming-app/": "How Much Does It Cost To Build a Live Streaming App Like Netflix?",
     "https://simpleprogrammer.com/real-life-skills-programmers-learn/": "6 Real-Life Skills Programmers Learn Throughout Their Career",
     "https://swimburger.net/blog/dynamics/how-to-deploy-power-apps-solutions-using-azure-pipelines": "How to deploy Power Apps Solutions using Azure Pipelines",
-
-
-
     "https://khalidabuhakmeh.com/how-to-map-a-route-in-an-aspnet-core-mvc-application": "How To Map A Route in an ASP.NET Core MVC application",
     "https://blog.elmah.io/debugging-system-formatexception-when-launching-asp-net-core/": "Debugging System.FormatException when launching ASP.NET Core",
     "https://dotnetcoretutorials.com/2021/09/07/dateonly-and-timeonly-types-in-net-6/": "DateOnly And TimeOnly Types In .NET 6",
@@ -2491,10 +2254,6 @@
     "https://codingsight.com/how-to-read-and-interpret-sql-errors/": "How to Read and Interpret SQL Errors",
     "https://simpleprogrammer.com/perfectionism-kills-programmers-productivity/": "How Perfectionism Kills a Programmer's Productivity",
     "https://simpleprogrammer.com/building-the-right-habits/": "Why Building the Right Habits Is Crucial for Becoming a Great Programmer",
-
-
-
-
     "http://www.tpeczek.com/2021/09/websocket-per-message-compression-in.html": "WebSocket per-message compression in ASP.NET Core 6",
     "https://andrewlock.net/exploring-dotnet-6-part-1-looking-inside-configurationmanager-in-dotnet-6/": "Looking inside ConfigurationManager in .NET 6: Exploring .NET Core 6 - Part 1",
     "https://dotnettips.wordpress.com/2021/09/12/new-code-rules-security-rules-placed-on-software-engineer-environments-has-gotten-out-of-hand/": "New Code Rules: Security Rules Placed on Software Engineer Environments Has Gotten Out of Hand!",
@@ -2511,10 +2270,6 @@
     "https://ardalis.com/should-controllers-reference-repositories-services/": "Should Controllers Reference Repositories or Services",
     "https://simpleprogrammer.com/programmer-productive-mental-state/": "Proven Ways of Getting Into a Productive Mental State",
     "https://simpleprogrammer.com/cybersecurity-programming-languages/": "5 Programming Languages You Need To Know To Get a Job in Cybersecurity",
-
-
-
-
     "https://dotnetcoretutorials.com/2021/09/20/file-scoped-namespaces-in-c-10/": "File Scoped Namespaces In C# 10",
     "https://michaelscodingspot.com/performance-tools-dotnet/": "6 Essential Tools to Detect and Fix Performance Issues in .NET",
     "https://askxammy.com/getting-device-information-with-xamarin-essentials/": "Getting Device Information with Xamarin Essentials",
@@ -2531,10 +2286,6 @@
     "https://simpleprogrammer.com/social-media-is-your-enemy/": "Why Science Says That Social Media is Your Enemy",
     "https://blog.pragmaticengineer.com/project-management-at-big-tech/": "How Big Tech Runs Tech Projects and the Curious Absence of Scrum",
     "https://www.infoq.com/news/2021/09/practical-api-design-netflix/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global": "Practical API Design Using gRPC at Netflix",
-
-
-
-
     "https://ardalis.com/grouping-assertions-in-tests/": "Grouping Assertions in Tests",
     "https://khalidabuhakmeh.com/compress-strings-with-dotnet-and-csharp": "Compress Strings With .NET and C#",
     "https://markheath.net/post/azure-functions-isolated": "Is it time to start creating C# Azure Functions in isolated mode?",
@@ -2549,10 +2300,6 @@
     "https://codeopinion.com/always-valid-domain-model/": "ALWAYS Valid Domain Model",
     "https://simpleprogrammer.com/develop-secure-web-applications/": "Develop Secure Web Applications - A Developer's Guide",
     "https://simpleprogrammer.com/keep-software-rights/": "Instructions for Developers: How To Keep the Rights to Your Own Program",
-
-
-
-
     "https://www.daveabrock.com/2021/10/05/csharp-10-file-scoped-namespaces/": "Exploring C# 10: Save Space with File-Scoped Namespaces",
     "https://exceptionnotfound.net/bite-size-dotnet-6-dateonly-and-timeonly/": "Bite-Size .NET 6 - DateOnly and TimeOnly",
     "https://dotnettips.wordpress.com/2021/10/06/hidden-idisposable-issues-in-microsoft-net/": "Hidden IDisposable Issues in Microsoft .NET",
@@ -2566,10 +2313,6 @@
     "https://simpleprogrammer.com/code-reuse-benefit/": "Code Reuse - What Is It and How Does It Benefit Programmers?",
     "https://simpleprogrammer.com/programmers-effectively-communicate-with-marketers/": "5 Tips Programmers Can Use To Effectively Communicate With Marketers",
     "https://ardalis.com/better-faster-demos-with-screencast-videos/": "Better Faster Demos with Screencast Videos",
-
-
-
-
     "https://dotnettips.wordpress.com/2021/10/15/everything-that-every-net-developer-needs-to-know-about-disposable-types-part-1-properly-disposing-objects/": "Everything That Every .NET Developer Needs to Know About Disposable Types: Properly Disposing Objects",
     "https://rehansaeed.com/the-problem-with-csharp-10-implicit-usings/": "The Problem with C# 10 Implicit Usings",
     "https://swimburger.net/blog/dotnet/get-your-head-together-with-blazors-new-headcontent-and-pagetitle": "Get Your Head Together With Blazor's New HeadContent and PageTitle",
@@ -2594,10 +2337,6 @@
     "https://simpleprogrammer.com/become-full-stack-developer-without-degree/": "How To Become a Full-Stack Developer Without a Degree",
     "https://simpleprogrammer.com/ai-and-ml-revolutionizing-developers/": "How Is AI and ML Revolutionizing the World of Developers?",
     "https://www.scottbrady91.com/soft-skills/polywork-vs-impostor-syndrome": "How I use Polywork to overcome impostor syndrome",
-
-
-
-
     "https://khalidabuhakmeh.com/bulk-import-records-into-sqlite-csharp": "Bulk Import Records Into SQLite With C#",
     "https://www.meziantou.net/finding-duplicate-documents-in-mongodb.htm?utm_medium=social&amp;utm_source=syndication": "Finding Duplicate Documents in MongoDB",
     "https://exceptionnotfound.net/bite-size-dotnet-6-linq-ordefault-overloads/": "Bite-Size .NET 6 - LINQ OrDefault() Overloads ",
@@ -2612,10 +2351,6 @@
     "https://codingsight.com/restoring-sample-dw-database-adventureworksdw2019/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=restoring-sample-dw-database-adventureworksdw2019": "Restoring Sample DW Database AdventureWorksDW2019",
     "https://codingsight.com/sql-joins-tutorial-with-examples/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sql-joins-tutorial-with-examples": "SQL JOINs Tutorial with Examples",
     "https://markheath.net/post/early-evaluator-late-adopter": "Early Evaluator, Late Adopter",
-
-
-
-
     "https://dotnetcoretutorials.com/2021/10/23/the-hot-reload-debacle/": "The Hot Reload Debacle",
     "https://ardalis.com/dotnet-format-and-file-scoped-namespaces/": "Dotnet Format and File Scoped Namespaces",
     "https://dotnettips.wordpress.com/2021/10/29/everything-that-every-net-developer-needs-to-know-about-disposable-types-properly-implementing-the-idisposable-interface/": "Everything That Every .NET Developer Needs to Know About Disposable Types: Properly Implementing the IDisposable Interface",
@@ -2633,10 +2368,6 @@
     "https://swimburger.net/blog/umbraco/thoughts-and-tips-on-moving-to-umbraco-9-from-umbraco-8": "Thoughts and tips on moving to Umbraco 9 from Umbraco 8",
     "https://simpleprogrammer.com/machine-learning-customer-experience/": "4 Ways To Use Machine Learning To Improve the Customer Experience",
     "https://blog.pragmaticengineer.com/writing-motivation/": "How I Motivate Myself to Write",
-
-
-
-
     "https://thomaslevesque.com/2021/11/04/a-quick-review-of-csharp-10-new-language-features/": "A quick review of C# 10 new language features",
     "https://dotnetcoretutorials.com/2021/10/30/github-copilot-with-c-net/": "Github Copilot With C# .NET",
     "https://devblogs.microsoft.com/dotnet/net-6-launches-at-net-conf-november-9-11/": ".NET 6 Launches at .NET Conf, November 9-11",
@@ -2655,10 +2386,6 @@
     "https://ardalis.com/markdown-code-block-syntax-highlighting-and-diff/": "Markdown Code Block Syntax Highlighting and Diff",
     "https://simpleprogrammer.com/programmers-guide-to-office/": "Back to the Office: A Programmer's Guide To Being an Office Worker Again",
     "https://simpleprogrammer.com/holiday-office-parties/": "It's the Most Wonderful Time of the Year (for Festive Office Parties)",
-
-
-
-
     "https://exceptionnotfound.net/bite-size-dotnet-6-unionby-intersectby-exceptby-and-distinctby/": "Bite-Size .NET 6 - UnionBy, IntersectBy, ExceptBy, and DistinctBy",
     "https://blog.datalust.co/using-serilog-in-net-6/": "Setting up Serilog in .NET 6",
     "https://dotnetcoretutorials.com/2021/11/10/single-file-apps-in-net-6/": "Single File Apps In .NET 6",
@@ -2684,10 +2411,6 @@
     "https://simpleprogrammer.com/programmers-boundaries/": "Programmers, You Should Say No More Often",
     "https://simpleprogrammer.com/defeat-failure-software-developer/": "5 Ways To Defeat Failure as a Software Developer: Turn Failure Into Success",
     "https://ardalis.com/screencast-video-demo-checklist/": "Screencast Video Demo Checklist",
-
-
-
-
     "https://dotnetthoughts.net/getting-started-with-graphql-aspnetcore/": "Getting started with GraphQL in ASP.NET Core",
     "https://markheath.net/post/running-locally-with-dapr-options": "Options for running locally with Dapr",
     "https://www.daveabrock.com/2021/11/18/exploring-c-10-use-extended-property-patterns-to-easily-access-nested-properties/": "Exploring C# 10: Use Extended Property Patterns to Easily Access Nested Properties ",
@@ -2708,10 +2431,6 @@
     "https://simpleprogrammer.com/common-mistakes-programmers-make/": "5 Common Mistakes Programmers Make to a Specific Process or Project and How To Avoid Them",
     "https://simpleprogrammer.com/integrate-your-work-life-balance/": "How To Integrate Your Work and Life To Avoid Burnout",
     "https://simpleprogrammer.com/overcome-loneliness-freelance-programmer/": "8 Ways To Overcome Loneliness as a Freelance Programmer",
-
-
-
-
     "https://khalidabuhakmeh.com/a-dotnet-five-guide-from-idea-to-nuget-package": "A .NET 5.0 Guide: From Idea To NuGet Package",
     "http://dontcodetired.com/blog/post/Whats-New-in-C-10-Easier-Lambda-Expressions": "What's New in C# 10: Easier Lambda Expressions",
     "https://swimburger.net/blog/umbraco/how-to-run-umbraco-9-as-a-linux-docker-container": "How to run Umbraco 9 as a Linux Docker container",
@@ -2730,10 +2449,6 @@
     "https://codeopinion.com/should-you-publish-domain-events-or-integration-events/": "Should you publish Domain Events or Integration Events?",
     "https://simpleprogrammer.com/men-for-women-in-programming/": "What Can Men Do To Create More Opportunities for Women in Programming and Tech?",
     "https://simpleprogrammer.com/gifts-for-programmers/": "2021 Gifts for Programmers Guide",
-
-
-
-
     "https://danielhindrikes.se/index.php/2021/12/02/modernize-winforms-and-wpf-apps-with-blazorwebview/": "Modernize WinForms and WPF apps with BlazorWebView",
     "https://dotnetthoughts.net/graphql-mutations-in-aspnetcore/": "GraphQL Mutations in ASP.NET Core",
     "https://weblog.west-wind.com/posts/2021/Nov/27/NTLM-Windows-Authentication-Authentication-with-HttpClient": "Windows Authentication with HttpClient",
@@ -2756,9 +2471,6 @@
     "https://codeteddy.com/2021/11/29/cloud-computing-in-education/": "Cloud Computing in Education",
     "https://codeopinion.com/should-you-use-the-repository-pattern-with-cqrs-yes-and-no/": "Should you use the Repository Pattern? With CQRS, Yes and No!",
     "https://simpleprogrammer.com/little-bets-programming-apps/": "How to Use “Little Bets” to Build Budget-Friendly Apps",
-
-
-
     "https://www.daveabrock.com/2021/12/03/dotnet-6-favorite-things/": ".NET 6 Has Arrived: Here Are A Few of My Favorite Things",
     "https://www.meziantou.net/fastest-way-to-enumerate-a-list-t.htm?utm_medium=social&amp;utm_source=syndication": "Fastest way to enumerate a List&lt;T&gt;",
     "https://www.daveabrock.com/2021/12/08/do-this-not-that-the-net-6-edition/": " Don't Do That, Do This: The .NET 6 Edition",
@@ -2782,10 +2494,6 @@
     "https://ardalis.com/make-implicit-explicit/": "Make the Implicit Explicit",
     "https://simpleprogrammer.com/remote-work-habits-healthy-productive/": "Remote Work Habits For Staying Healthy, Productive, And Connected",
     "https://simpleprogrammer.com/2022-technology-programming-trends/": "10 Upcoming Technology and Programming Trends Set for 2022",
-
-
-
-
     "https://christianfindlay.com/2021/12/12/upgrade-to-net-6/": "How to Upgrade a Codebase from .NET Framework to .NET 6",
     "https://dotnetthoughts.net/dotnet-minimal-api-integration-testing/": "Integration Testing ASP.NET Core 6 Minimal APIs",
     "https://www.danylkoweb.com/Blog/unit-testing-ilogger-SF": "Unit Testing ILogger",
@@ -2810,10 +2518,6 @@
     "https://dotnetcoretutorials.com/2021/12/11/temporal-tables-in-sql-server/": "Temporal Tables In SQL Server",
     "https://codeopinion.com/optimistic-concurrency-in-an-http-api-with-etags-hypermedia/": "Optimistic Concurrency in an HTTP API with ETags &amp; Hypermedia",
     "https://simpleprogrammer.com/avoid-toxic-positivity-programmer/": "5 Ways To Avoid the Toxic Positivity Trap as a Programmer",
-
-
-
-
     "https://www.danylkoweb.com/Blog/refactoring-with-c-10-LM": "Refactoring with C# 10",
     "https://andrewlock.net/creating-a-source-generator-part-3-integration-testing-and-packaging/": "Integration testing and NuGet packaging: Creating a source generator - Part 3",
     "https://askxammy.com/getting-started-with-font-scaling-in-net-maui/": "Getting started with Font Scaling in .NET MAUI",
@@ -2826,9 +2530,6 @@
     "https://programmingwithmosh.com/backend/graphql/graphql-mutations-and-caching-using-apollo-client-in-your-react-app/": "GraphQL Mutations and Caching using Apollo Client in Your React App",
     "https://simpleprogrammer.com/code-churn-impact-businesses/": "What Is Code Churn and How Does It Impact Businesses?",
     "https://blog.pragmaticengineer.com/holiday-tech-book-recommendations/": "Holiday Book Recommendations for Engineering Managers, Software Engineers and Product Managers",
-
-
-
     "https://www.thereformedprogrammer.net/building-asp-net-core-and-ef-core-multi-tenant-apps-part1-the-database/": "Building ASP.NET Core and EF Core multi-tenant apps - Part1",
     "https://weblog.west-wind.com/posts/2022/Jan/03/Integrating-Long-Path-Names-in-Windows-NET-Applications": "Integrating Long Path Names in Windows .NET Applications",
     "https://damienbod.com/2022/01/03/secure-a-blazor-wasm-asp-net-core-hosted-app-using-bff-and-openiddict/": "Secure a Blazor WASM ASP.NET Core hosted APP using BFF and OpenIddict",
@@ -2845,10 +2546,6 @@
     "https://simpleprogrammer.com/handle-finances-freelance-developer/": "How To Handle Finances as a Freelance Developer (Tips, Apps, and More)",
     "https://simpleprogrammer.com/software-development-trends-2022/": "The Top 10 Software Development Trends To Watch In 2022",
     "https://blog.pragmaticengineer.com/coaches-and-mentors-for-engineering-managers/": "Coaches and Mentors for Engineering Managers and Engineering Leaders",
-
-
-
-
     "https://www.meziantou.net/using-http-3-quic-in-dotnet.htm?utm_medium=social&amp;utm_source=syndication": "Using HTTP/3 (QUIC) in .NET",
     "https://exceptionnotfound.net/dependency-injection-in-dotnet-6-intro-and-background/": "Dependency Injection in .NET 6 - Intro and Background",
     "https://dotnetcoretutorials.com/2022/01/13/protobuf-in-c-net-part-1-getting-started/": "Protobuf In C# .NET - Part 1 - Getting Started",
@@ -2871,10 +2568,6 @@
     "https://damienbod.com/2022/01/10/comparing-the-backend-for-frontend-bff-security-architecture-with-an-spa-ui-using-a-public-api/": "Comparing the backend for frontend (BFF) security architecture with an SPA UI using a public API",
     "https://simpleprogrammer.com/improve-customer-experience-web-design/": "How To Improve Customer Experience With Web Design",
     "https://simpleprogrammer.com/quitting-job-you-just-started/": "Quitting A Job You Just Started",
-
-
-
-
     "https://swimburger.net/blog/dotnet/how-to-send-recurring-emails-in-csharp-dotnet-using-sendgrid-and-quartzdotnet": "How to send recurring emails in C# .NET using SendGrid and Quartz.NET",
     "https://ardalis.com/why-use-datetimeoffset/": "Why Use DateTimeOffset",
     "https://michaelscodingspot.com/cpu-bound-memory-bound/": "Optimizing CPU-Bound and Memory-Bound .NET Applications: 11 Best Practices",
@@ -2897,10 +2590,6 @@
     "https://simpleprogrammer.com/improve-programmer-client-communication/": "How to Improve Communication Between Programmers and Clients",
     "https://simpleprogrammer.com/go-to-university-computer-science-graduate/": "Do You Need to go to University? From a Computer Science Graduate",
     "https://blog.pragmaticengineer.com/becoming-a-better-writer-in-tech/": "Becoming a Better Writer in Tech",
-
-
-
-
     "https://dotnetthoughts.net/implementing-basic-authentication-in-minimal-webapi/": "Implementing Basic Authentication in ASP.NET Core Minimal API",
     "https://andrewlock.net/finding-the-urls-of-an-aspnetcore-app-from-a-hosted-service-in-dotnet-6/": "Waiting for your ASP.NET Core app to be ready from an IHostedService in .NET 6",
     "https://csharp.christiannagel.com/2022/02/14/nullable/": "C# Nullable Features thru the times",
@@ -2932,10 +2621,6 @@
     "https://asp.net-hacker.rocks/2022/02/14/20-years-of-dotnet.html": "20 years of .NET ",
     "https://askxammy.com/motivating-girls-to-study-stem-careers/": "Motivating girls to study STEM careers",
     "https://simpleprogrammer.com/programming-salaries-2022/": "Programming Salaries and Career Expectations for Developers in 2022",
-
-
-
-
     "https://dotnetthoughts.net/implementing-api-gateway-in-aspnet-core-with-ocelot/": "Implementing an API Gateway in ASP.NET Core with Ocelot",
     "https://khalidabuhakmeh.com/testing-aspnet-core-6-apps": "Testing ASP.NET Core 6 Apps",
     "https://csharp.christiannagel.com/2022/02/22/upgrading-an-asp-net-core-web-api-project-to-net-6/": "Upgrading an ASP.NET Core Web API Project to .NET 6",
@@ -2958,10 +2643,6 @@
     "https://codingsight.com/large-sized-database-management-system-design-and-architect/": "Large-Sized Database Management System: Design and Architect",
     "https://simpleprogrammer.com/myths-about-software-programming/": "Fact or Fiction? 8 Myths About Software Programming",
     "https://simpleprogrammer.com/minimum-viable-product/": "Minimum Viable Product: Benefits, Cost, and How To Build One",
-
-
-
-
     "https://gunnarpeipman.com/global-usings/": "Global usings in C# 10",
     "https://www.scottbrady91.com/oauth/step-up-authentication": "Step-up authentication with OAuth and OpenID Connect",
     "https://markheath.net/post/build-your-own-browser": "Build your own simple browser with WebView2",
@@ -2980,10 +2661,6 @@
     "https://dotnetcoretutorials.com/2022/02/26/net-7-preview-1-has-been-released/": ".NET 7 Preview 1 Has Been Released",
     "https://codeopinion.com/eventual-consistency-is-a-ux-nightmare/": "Eventual Consistency is a UX Nightmare",
     "https://simpleprogrammer.com/devops-in-mobile-application-development/": "The Importance of DevOps in Mobile Application Development",
-
-
-
-
     "https://dotnettips.wordpress.com/2022/03/04/classes-structures-and-records-oh-my/": "Classes, Structures, and Records, Oh My!",
     "https://www.meziantou.net/executing-code-before-main-in-dotnet.htm?utm_medium=social&amp;utm_source=syndication": "Executing code before Main in .NET",
     "https://markheath.net/post/download-and-push-nuget-csharp": "Downloading and Pushing NuGet packages in C#",
@@ -3002,10 +2679,6 @@
     "https://codeopinion.com/domain-logic-where-does-it-go/": "Domain Logic: Where does it go?",
     "https://simpleprogrammer.com/software-documentation-compatible-web-3/": "How to Make Your Software Documentation Compatible for Web 3",
     "https://ardalis.com/deploy-more-often/": "Deploy More Often",
-
-
-
-
     "https://swimburger.net/blog/dotnet/send-aspdotnet-core-identity-emails-with-twilio-sendgrid": "How to send ASP.NET Core Identity emails with Twilio SendGrid",
     "https://exceptionnotfound.net/middleware-in-asp-dotnet-6-intro-and-basics/": "Middleware in ASP.NET 6 - Intro and Basics ",
     "https://www.danylkoweb.com/Blog/real-world-refactoring-complex-linq-ing-SP": "Real-World Refactoring: Complex LINQ-ing",
@@ -3028,10 +2701,6 @@
     "https://michaelscodingspot.com/ravdndb-interview-oren-eini/": "Creating a Database in C#: Interviewing the CEO of RavenDB Oren Eini",
     "https://simpleprogrammer.com/web-vs-software-development-how-to-choose/": "Web Development Vs. Software Development: How To Choose?",
     "https://simpleprogrammer.com/successful-career-in-ai-industry/": "A Programmer's Guide to Creating Successful Career in the AI industry",
-
-
-
-
     "https://www.meziantou.net/performance-benefits-of-sealed-class.htm?utm_medium=social&amp;utm_source=syndication": "Performance benefits of sealed class in .NET",
     "https://csharp.christiannagel.com/2022/03/22/windowsservice-2/": "Creating a Windows Service with .NET 6",
     "https://timdeschryver.dev/blog/trying-out-odata-for-the-first-time": "Trying out OData for the first time",
@@ -3049,10 +2718,6 @@
     "https://codingsight.com/automation-of-database-maintenance-in-sql-server-2019-express-edition/": "Automation of Database Maintenance in SQL Server 2019 Express Edition",
     "https://simpleprogrammer.com/amazing-facts-about-ai/": "12 Amazing Facts About AI",
     "https://simpleprogrammer.com/daily-burnout-programmer/": "7 Ways to Prevent Daily Burnout as a Programmer",
-
-
-
-
     "https://codewithmukesh.com/blog/working-with-aws-s3-using-aspnet-core/": "Working with AWS S3 using ASP.NET Core - Upload, Download &amp; Delete",
     "https://swimburger.net/blog/dotnet/how-to-prevent-email-html-injection-in-csharp-and-dotnet": "How to prevent email HTML injection in C# and .NET",
     "https://www.danylkoweb.com/Blog/what-unit-tests-reveal-about-a-web-app-SO": "What Unit Tests Reveal About a Web App",
@@ -3073,10 +2738,6 @@
     "https://andrewlock.net/working-on-two-git-branches-at-once-with-git-worktree/": "Working on two git branches at once with git worktree",
     "https://simpleprogrammer.com/why-app-developers-fail/": "The Top 10 Reasons Why App Developers Fail to Create an App",
     "https://ardalis.com/learning-consumption-creation/": "Learning by Consumption and Creation",
-
-
-
-
     "https://dotnettips.wordpress.com/2022/04/08/speed-up-logging-in-net/": "Speed Up Logging in .NET",
     "https://jimmybogard.com/dissecting-automapper-progamming-horror/": "Dissecting AutoMapper Programming Horror",
     "https://nodogmablog.bryanhogan.net/2022/04/lambda-function-urls-triggering-net-6-lambda-functions-with-a-https-request/": "Lambda Function URLs - triggering .NET 6 Lambda functions with a HTTPS Request",
@@ -3105,10 +2766,6 @@
     "https://simpleprogrammer.com/user-flow-for-app-development/": "User Flow for App Development: A Beginner's Guide",
     "https://simpleprogrammer.com/11-more-tech-trends-in-2022/": "11 More Programming and Tech Trends in 2022",
     "https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/": "Becoming a Full-Time Creator as a Software Engineer: Controversial Advice",
-
-
-
-
     "https://enterprisecraftsmanship.com/posts/modeling-relationships-in-ddd-way/": "Modeling Relationships in a DDD Way",
     "https://swimburger.net/blog/dotnet/how-to-generate-absolute-urls-in-aspdotnet-core": "How to generate absolute URLs in ASP.NET Core",
     "https://markheath.net/post/azure-functions-table-storage": "Update Your Azure Functions Table Storage Bindings",
@@ -3134,10 +2791,6 @@
     "https://dotnetthoughts.net/introducing-azure-load-testing/": "Introducing Azure Load Testing",
     "https://codeopinion.com/advice-to-my-younger-self-as-a-software-developer/": "ADVICE to my younger self as a Software Developer",
     "https://blog.pragmaticengineer.com/job-ads-for-software-engineers/": "Job Ads to Hire Software Engineers: My Advice",
-
-
-
-
     "https://dotnetcoretutorials.com/2022/04/28/using-user-secrets-configuration-in-net/": "Using User Secrets Configuration In .NET",
     "https://khalidabuhakmeh.com/create-dotnet-objects-without-calling-the-constructor": "Create .NET Objects without Calling The Constructor",
     "https://christianfindlay.com/2022/04/24/code-rules/": "C# Code Rules",
@@ -3160,10 +2813,6 @@
     "https://dotnettips.wordpress.com/2022/04/29/i-thought-i-was-a-software-engineer/": "I Thought I Was a Software Engineer?",
     "https://simpleprogrammer.com/freelance-developer-basic-steps-to-start/": "7 Basic Steps to Start a Freelance Development Career",
     "https://simpleprogrammer.com/programming-is-hard-and-i-feel-unmotivated/": "Programming Is HARD And I Feel Unmotivated!",
-
-
-
-
     "https://www.meziantou.net/getting-telemetry-data-from-inside-or-outside-a-dotnet-application.htm?utm_medium=social&amp;utm_source=syndication": "Getting telemetry data from inside or outside a .NET application",
     "https://codewithmukesh.com/blog/crud-with-dynamodb-in-aspnet-core/": "CRUD with DynamoDB in ASP.NET Core - Getting Started with AWS DynamoDB Simplified",
     "https://markheath.net/post/wasapi-sample-rate-conversion": "Automatic Sample Rate Conversion with WASAPI",
@@ -3187,10 +2836,6 @@
     "https://timdeschryver.dev/blog/how-to-stay-up-to-date": "How to stay up-to-date ",
     "https://www.danylkoweb.com/Blog/whats-the-difference-between-a-software-engineer-and-a-cloud-engineer-a-quick-breakdown-SG": "What's The Difference Between A Software Engineer And A Cloud Engineer? A Quick Breakdown",
     "https://simpleprogrammer.com/geomapping-api-in-apps/": "Why You Should Use a Geomapping API in Your Next App",
-
-
-
-
     "https://dotnetcoretutorials.com/2022/05/12/raw-string-literals-in-c-11/": "Raw String Literals In C# 11",
     "https://blog.elmah.io/building-a-stack-overflow-browser-as-a-vs-extension/": "Building a Stack Overflow browser as a VS extension",
     "https://nodogmablog.bryanhogan.net/2022/05/polly-with-net-6-part-5-using-a-cancellation-token/": "Polly with .NET 6, Part 5 - Using a Cancellation Token",
@@ -3219,10 +2864,6 @@
     "https://ardalis.com/domain-modeling-anemic-models/": "Domain Modeling - Anemic Models",
     "https://simpleprogrammer.com/effectively-manage-email-inbox/": "How Programmers Can Effectively Manage Their Email Inbox and Improve Day-To-Day Productivity",
     "https://simpleprogrammer.com/top-5-online-coding-certifications-2/": "Top 5 Online Coding Certifications",
-
-
-
-
     "https://www.meziantou.net/copying-a-collection-tolist-vs-toarray.htm?utm_medium=social&amp;utm_source=syndication": "Copying a collection: ToList vs ToArray",
     "https://dotnetcoretutorials.com/2022/05/17/ienumerable-visualizer-in-visual-studio-2022/": "IEnumerable Visualizer In Visual Studio 2022",
     "https://csharp.christiannagel.com/2022/05/17/mysqlwithefcoreanddocker/": "Using MySQL in a Docker container with EF Core",
@@ -3244,10 +2885,6 @@
     "https://andrewlock.net/rewriting-git-history-simply-with-git-filter-repo/": "Rewriting git history simply with git-filter-repo",
     "https://simpleprogrammer.com/become-a-web-3-developer/": "Step-By-Step Guide to Become a Web 3 Developer",
     "https://simpleprogrammer.com/coding-is-not-the-same-as-programming/": "Coding Is Not The Same As Programming",
-
-
-
-
     "https://khalidabuhakmeh.com/get-tweet-engagements-using-dotnet-and-csharp": "Get Tweet Engagements Using .NET and C#",
     "https://codeopinion.com/message-ordering-in-pub-sub-or-queues/": "Message Ordering in Pub/Sub or Queues",
     "https://nodogmablog.bryanhogan.net/2022/05/c-lambdas-part-2-a-few-more-complicated-examples/": "C# Lambdas Part 2, a Few More Complicated Examples",
@@ -3267,10 +2904,6 @@
     "https://www.mobilize.net/blog/unpivot-in-teradata-and-snowflake": "Unpivot in Teradata and Snowflake",
     "https://simpleprogrammer.com/advance-career-software-development/": "9 Tips to Advance Your Career in Software Development",
     "https://simpleprogrammer.com/programmers-prioritize-mental-health/": "How Programmers Can Prioritize Their Mental Health",
-
-
-
-
     "https://andrewlock.net/understanding-pathbase-in-aspnetcore/": "Understanding PathBase in ASP.NET Core",
     "https://www.talkingdotnet.com/code-cleanup-on-save-in-visual-studio-2022/": "Code Cleanup on Save in Visual Studio 2022",
     "https://nodogmablog.bryanhogan.net/2022/05/accessing-aws-secrets-manager-from-net-lambda-functions-part-3-connected-to-a-vpc-using-a-vpc-endpoint/": "Accessing AWS Secrets Manager from .NET Lambda Functions, Part 3 - Connected to a VPC, using a VPC Endpoint",
@@ -3294,10 +2927,6 @@
     "https://simpleprogrammer.com/i-quit-programmer/": "I'm A Programmer And I Don't Wanna Do This Anymore!",
     "https://blog.pragmaticengineer.com/layoffs-at-klarna/": "Inside the Layoffs at Klarna",
     "https://ardalis.com/managing-up-and-getting-ahead/": "Managing Up and Getting Ahead",
-
-
-
-
     "https://michaelscodingspot.com/web-application-tech-stack-front-end/": "The Best C# .NET Web Application Tech Stack: Choosing The Front End",
     "https://blog.maartenballiauw.be/post/2022/06/07/how-test-aspnetcore-minimal-apis.html": "How to test ASP.NET Core Minimal APIs",
     "https://nodogmablog.bryanhogan.net/2022/06/error-converting-the-lambda-event-json-payload-to-type-system-string/": "Error converting the Lambda event JSON payload to type System.String",
@@ -3322,10 +2951,6 @@
     "https://simpleprogrammer.com/cloud-software-development/": "Your Complete Guide to Cloud Software Development",
     "https://simpleprogrammer.com/developer-side-hustle-learnings-earnings/": "Developer Side Hustle: Convert Learnings Into Earnings",
     "https://blog.pragmaticengineer.com/shipping-to-production/": "Shipping to Production",
-
-
-
-
     "https://dotnetthoughts.net/implementing-breadcrumbs-in-aspnetcore/": "Implementing Breadcrumbs in ASP.NET Core",
     "https://timdeschryver.dev/blog/dotnet-debugging-tips": ".NET Debugging Tips ",
     "https://markheath.net/post/async-enumerable-2": "Async Enumerable in C# (Part 2)",
@@ -3349,10 +2974,6 @@
     "https://jussiroine.com/2022/06/so-whats-up-5/": "So, what's up?",
     "https://simpleprogrammer.com/expense-tracking-app-development/": "The Not-a-Noob Guide for Expense Tracking App Development",
     "https://simpleprogrammer.com/become-a-programmer-after-30/": "How To Become A Programmer After 30 - Is It Possible",
-
-
-
-
     "https://andrewlock.net/returning-xml-from-minimal-apis-in-dotnet-6/": "Returning XML from minimal APIs in .NET 6",
     "https://khalidabuhakmeh.com/minimal-api-validation-with-fluentvalidation": "Minimal API Validation with FluentValidation",
     "https://nodogmablog.bryanhogan.net/2022/07/a-simple-example-of-using-a-distributed-cache-redis-in-net-6-with-api-endpoints/": "A Simple Example of Using a Distributed Cache (Redis) in .NET 6 with API Endpoints",
@@ -3384,10 +3005,6 @@
     "https://azure.microsoft.com/blog/what-is-desktop-as-a-service-daas-and-how-can-it-help-your-organization/": "What is desktop as a service (DaaS) and how can it help your organization?",
     "https://simpleprogrammer.com/how-to-make-a-programming-youtube-channel/": "How to Make a Programming YouTube Channel",
     "https://simpleprogrammer.com/coding-on-mac/": "Getting into Coding on Mac: All You Need to Know",
-
-
-
-
     "https://www.youtube.com/watch?v=s1bk-68aB1U": "ASP.NET Core Web API Features You Need to Know In 10 Minutes or Less",
     "https://www.youtube.com/watch?v=oC5zpEbwViE": "Singleton vs Transient - What's the Difference in .NET Dependency Injection?",
     "https://www.meziantou.net/replace-characters-in-a-string-using-vectorization.htm?utm_medium=social&amp;utm_source=syndication": "Replace characters in a string using Vectorization",
@@ -3417,10 +3034,6 @@
     "https://dotnettips.wordpress.com/2022/07/08/prepare-prepare-and-prepare-some-more-for-your-next-technical-interview/": "Prepare, Prepare and Prepare Some More for Your Next Technical Interview!",
     "https://simpleprogrammer.com/climb-corporate-ladder/": "From Junior Developer to Senior Management: How to Climb the Corporate Ladder",
     "https://simpleprogrammer.com/learning-algorithms/": "Learning Algorithms Is It REALLY Necessary",
-
-
-
-
     "https://timdeschryver.dev/blog/exploring-the-new-output-caching-middleware": "Exploring the new output caching middleware",
     "https://www.meziantou.net/using-iasyncenumerable-in-a-razor-component.htm?utm_medium=social&amp;utm_source=syndication": "Using IAsyncEnumerable in a Razor component",
     "https://markheath.net/post/dapr-consul-name-resolution": "Using Consul for Name Resolution in Dapr",
@@ -3447,10 +3060,6 @@
     "https://codeopinion.com/event-carried-state-transfer-keep-a-local-cache/": "Event Carried State Transfer: Keep a local cache!",
     "https://www.troyhunt.com/if-youre-not-paying-for-the-product-you-are-possibly-just-consuming-goodwill-for-free/": "If You're Not Paying for the Product, You Are... Possibly Just Consuming Goodwill for Free",
     "https://simpleprogrammer.com/evolve-saas-product-offerings/": "How To Evolve SaaS Product Offerings Based on Consumer Needs",
-
-
-
-
     "https://nodogmablog.bryanhogan.net/2022/07/using-ioptions-with-net-6-api-endpoints/": "Using IOptions with .NET 6 API Endpoints",
     "https://www.youtube.com/watch?v=6WeT-JQBI98": "How to test \"untestable\" code in .NET",
     "https://nodogmablog.bryanhogan.net/2022/07/signing-calls-to-lambda-function-urls-using-iam-auth-with-httpclient/": "Signing calls to Lambda Function URLs using IAM auth with HttpClient",
@@ -3474,10 +3083,6 @@
     "https://simpleprogrammer.com/node-js-vs-asp-net/": "Node.js Vs ASP.NET - Battle of Two Server-Side Languages",
     "https://dotnettips.wordpress.com/2022/07/27/we-must-demand-quality-in-ourselves-the-software-we-write-and-in-apps-we-use/": "We Must Demand Quality in Ourselves, the Software We Write, and In Apps We Use!",
     "https://simpleprogrammer.com/quickest-way-to-make-6-figures/": "Quickest Way to Make 6 Figures",
-
-
-
-
     "https://swimburger.net/blog/dotnet/how-to-bulk-email-with-csharp-and-dotnet-zero-to-hero": "How to Bulk Email with C# and .NET: Zero to Hero ",
     "https://www.youtube.com/watch?v=C6LV_xMGdKc": "Intro To Class Libraries in C#",
     "https://nodogmablog.bryanhogan.net/2022/08/dotnet-7-custom-runtime-for-aws-lambda/": ".NET 7 Custom Runtime for AWS Lambda",
@@ -3501,10 +3106,6 @@
     "https://rehansaeed.com/on-the-etiquette-of-pull-request-comments/": "On the Etiquette of Pull Request Comments",
     "https://simpleprogrammer.com/reduce-cloud-costs/": "How to Reduce Cloud Costs: Tips from DevOps Engineers",
     "https://blog.pragmaticengineer.com/oncall-compensation/": "Oncall Compensation for Software Engineers",
-
-
-
-
     "https://khalidabuhakmeh.com/fun-with-custom-interpolated-string-handlers": "Fun With Custom Interpolated String Handlers",
     "https://www.youtube.com/watch?v=tLk4pZZtiDY": "Clean Architecture With .NET 6 And CQRS - Project Setup",
     "https://anthonygiretti.com/2022/08/08/net-6-enhance-your-grpc-client-logs-with-a-generic-logging-interceptor/": ".NET 6: Enhance your gRPC client logs with a generic logging interceptor",
@@ -3536,10 +3137,6 @@
     "https://codeopinion.com/workflow-orchestration-for-resilient-systems/": "Workflow Orchestration for Resilient Systems",
     "https://andrewlock.net/handling-concurrent-merges-to-master-in-multi-stage-azure-devops-pipelines/": "Handling concurrent merges to master in multi-stage Azure DevOps pipelines",
     "https://blog.pragmaticengineer.com/advice-for-junior-software-engineers/": "Advice for Less Experienced Software Engineers in the Current Tech Market",
-
-
-
-
     "https://blog.elmah.io/three-nuget-packages-to-improve-exceptions-in-net-c/": "Three NuGet packages to improve exceptions in .NET/C#",
     "https://www.youtube.com/watch?v=w3EmMWYZHMY": "Deploy Serverless .NET on AWS with CloudFormation",
     "https://anthonygiretti.com/2022/08/15/asp-net-core-6-here-is-the-best-way-to-pass-a-jwt-in-the-headers-of-a-grpc-client/": "ASP.NET Core 6: Here is the best way to pass a JWT in the headers of a gRPC client",
@@ -3564,10 +3161,6 @@
     "https://www.codingblocks.net/podcast/git-from-the-bottom-up-blobs-and-trees/": "Git from the Bottom Up - Blobs and Trees",
     "https://codeopinion.com/shared-database-between-services-maybe/": "Shared Database between Services? Maybe!",
     "https://www.scottbrady91.com/jose/json-web-encryption": "Understanding JSON Web Encryption (JWE)",
-
-
-
-
     "https://weblog.west-wind.com/posts/2022/Aug/23/Mapping-Multiple-Static-File-Folders-in-ASPNET-Core": "Mapping Multiple Static File Folders in ASP.NET Core",
     "https://nodogmablog.bryanhogan.net/2022/08/working-with-lambda-function-versions/": "Working with Lambda function versions",
     "https://nodogmablog.bryanhogan.net/2022/08/simple-lambda-function-with-a-function-url/": "Simple Lambda Function with a Function URL",
@@ -3594,10 +3187,6 @@
     "https://jussiroine.com/2022/08/modern-notetaking-with-obsidian-also-goodbye-onenote/": "Modern notetaking with Obsidian (Also, goodbye, OneNote)",
     "https://blog.pragmaticengineer.com/ads/": "Three years of advertising on my blog: numbers",
     "https://ardalis.com/if-no-one-says-no-your-rate-is-too-low/": "If No One Says No, Your Rate is Too Low",
-
-
-
-
     "https://damienbod.com/2022/08/29/secure-asp-net-core-grpc-api-hosted-in-a-linux-kestrel-azure-app-service/": "Secure ASP.NET Core GRPC API hosted in a Linux kestrel Azure App Service",
     "https://www.youtube.com/watch?v=cLsmW7a8MkU": "How IEnumerable can kill your performance in C#",
     "https://csharp.christiannagel.com/2022/08/30/no-more-dockerfiles-with-help-of-net-cli/": "No more Dockerfiles with the help of .NET CLI",
@@ -3628,10 +3217,6 @@
     "https://ardalis.com/rainbow-colorized-brackets-in-visual-studio/": "Rainbow Colorized Brackets in Visual Studio",
     "https://simpleprogrammer.com/5-things-ai-cant-do/": "5 Important Things AI Still Can't Do",
     "https://simpleprogrammer.com/smart-goals-better-programmer/": "26 Developer Goals That ACTUALLY WORK - with SMART Examples",
-
-
-
-
     "https://khalidabuhakmeh.com/customize-the-authorization-pipeline-in-aspnet-core": "Customize The Authorization Pipeline In ASP.NET Core",
     "https://sahansera.dev/deploying-dotnet-grpc-service-azure-app-services/": "Deploying a .NET gRPC Server on Azure App Service",
     "https://csharp.christiannagel.com/2022/09/06/whats-the-synchronizationcontext-used-for/": "What's the SynchronizationContext used for?",
@@ -3650,10 +3235,6 @@
     "https://codeopinion.com/the-world-is-full-of-asynchronous-workflow/": "The world is full of Asynchronous Workflow",
     "https://blog.pragmaticengineer.com/netflix-levels/": "The Scoop: Netflix's historic introduction of levels for software engineers",
     "https://www.youtube.com/watch?v=QnyfRoqtaw4": "C# Code Review: Reviewing Practice Code - How To Practice C# Well",
-
-
-
-
     "https://blog.elmah.io/how-to-download-files-from-asp-net-core-mvc/": "How to download files from ASP.NET Core MVC",
     "https://www.youtube.com/watch?v=d76WWAD99Yo": "Why all your classes should be sealed by default in C#",
     "https://nodogmablog.bryanhogan.net/2022/09/dependency-injection-of-an-entity-framework-context-within-program-cs-using-top-level-statements/": "Dependency Injection of an Entity Framework Context within Program.cs Using Top Level Statements",
@@ -3682,10 +3263,6 @@
     "https://codeopinion.com/where-should-you-use-grpc-and-where-not/": "Where should you use gRPC? And where NOT!",
     "https://blog.pragmaticengineer.com/what-is-data-engineering/": "What is Data Engineering?",
     "https://exceptionnotfound.net/a-rant-on-the-occasional-inhumanity-of-tech/": "A Rant on the Occasional Inhumanity of Tech ",
-
-
-
-
     "https://www.thereformedprogrammer.net/how-to-take-an-asp-net-core-web-site-down-for-maintenance/": "How to take an ASP.NET Core website “Down for maintenance”",
     "https://www.youtube.com/watch?v=h4KIngWVpfU": "Repository Pattern With Entity Framework Core",
     "https://anthonygiretti.com/2022/09/21/asp-net-core-6-bring-your-custom-compression-provider-in-grpc/": "ASP.NET Core 6: Bring your custom compression provider in gRPC",
@@ -3716,10 +3293,6 @@
     "https://codeopinion.com/should-you-soft-delete/": "Should you Soft Delete?",
     "https://www.danylkoweb.com/Blog/the-cost-of-cloud-security-you-need-it-but-can-you-afford-it-SX": "The Cost of Cloud Security: You Need it, But Can You Afford it?",
     "https://simpleprogrammer.com/step-step-path-becoming-great-software-developer/": "How to Become a GREAT Software Engineer (Without a Degree?)",
-
-
-
-
     "https://blog.maartenballiauw.be/post/2022/09/26/aspnet-core-rate-limiting-middleware.html": "ASP.NET Core rate limiting middleware in .NET 7",
     "https://www.youtube.com/watch?v=5DrGdyxnO5A": "The RIGHT way to deal with Date and Time in C#",
     "https://anthonygiretti.com/2022/09/28/introducing-c11-auto-default-structs/": "Introducing C#11: Auto Default structs",
@@ -3743,10 +3316,6 @@
     "https://markheath.net/post/noisy-neighbour-multi-tenancy": "Mitigating the Noisy Neighbour Multitenancy Problem",
     "https://michaelscodingspot.com/windows-productivity-shortcuts/": "6 Productivity Shortcuts on Windows 10 &amp; 11 I wish I knew as a Junior Software Developer",
     "https://blog.pragmaticengineer.com/what-is-data-engineering-2/": "What is Data Engineering: Part 2",
-
-
-
-
     "https://codingsight.com/different-flavors-of-linq-query-operations/": "Different types of LINQ queries: Query Syntax and Method Syntax",
     "https://asp.net-hacker.rocks/2022/10/03/aspnetcore7-updates.html": "ASP.NET Core 7 updates",
     "https://nodogmablog.bryanhogan.net/2022/09/creating-an-ascii-table-with-c/": "Creating an ASCII Table with C#",
@@ -3776,10 +3345,6 @@
     "https://dotnetcore.show/episode-107-unstructured-data-with-kirk-marple/": "Unstructured Data With Kirk Marple",
     "https://codeopinion.com/what-is-software-architecture/": "What is Software Architecture?",
     "https://www.scottbrady91.com/leadership/book-notes-art-of-leadership": "Book notes &amp; reflections: The Art of Leadership",
-
-
-
-
     "https://khalidabuhakmeh.com/add-ms-sql-server-json-support-to-entity-framework-core": "Add MS SQL Server JSON Support To Entity Framework Core",
     "https://www.youtube.com/watch?v=WRB4OHpSXHs": "How Random can silently break your app in .NET",
     "https://www.fearofoblivion.com/asp-net-core-integration-testing": "Integration Testing ASP.NET Core APIs incl. auth and database",
@@ -3809,10 +3374,6 @@
     "https://blog.pragmaticengineer.com/meta-layoffs/": "Will Facebook / Meta do engineering layoffs?",
     "https://blog.pragmaticengineer.com/strategy-of-joining-late-stage-startups/": "Is the strategy of joining late-stage startups for the financial upside, a dead end?",
     "https://www.youtube.com/watch?v=x_Bbd12tLz8": "Should I Take a C# Desktop Job as a C# Web Developer?",
-
-
-
-
     "https://www.thereformedprogrammer.net/asp-net-core-three-ways-to-refresh-the-claims-of-a-logged-in-user/": "ASP.NET Core: Three ways to refresh the claims of a logged-in user",
     "https://www.youtube.com/watch?v=Us3NuoxOGDo": "Twitter Authentication in .NET 6 ASP.NET Core Web Applications",
     "https://nodogmablog.bryanhogan.net/2022/10/dependency-injection-with-the-lambda-annotations-library-for-net-part-1-lambda-applications/": "Dependency Injection with the Lambda Annotations Library for .NET - Part 1, Lambda Applications",
@@ -3840,10 +3401,6 @@
     "https://ardalis.com/introducing-spectre-console/": "Introducing Spectre.Console",
     "https://jussiroine.com/2022/10/lessons-learned-testing-new-azure-features/": "Lessons learned: Testing new Azure features",
     "https://damienbod.com/2022/10/17/is-scanning-qr-codes-for-authentication-safe/": "Is scanning QR Codes for authentication safe?",
-
-
-
-
     "https://codingsonata.com/a-quick-guide-to-learn-asp-net-core-web-api/": "A Quick Guide to Learn ASP.NET Core Web API",
     "https://www.youtube.com/watch?v=i_3I6XLAOt0": "Extremely FAST Caching Repository With Decorator Pattern in ASP.NET Core",
     "http://www.tpeczek.com/2022/10/micro-frontends-in-action-with-aspnet.html": "Micro Frontends in Action With ASP.NET Core - Universal Rendering With Blazor WebAssembly Based Web Components",
@@ -3868,10 +3425,6 @@
     "https://jussiroine.com/2022/10/im-trying-to-understand-what-the-value-of-metaverse-is-and-im-not-sure-im-succeeding/": "I'm trying to understand what the value of Metaverse is, and I'm not sure I'm succeeding",
     "https://blog.pragmaticengineer.com/big-tech-hiring-slowdown/": "The Big Tech Hiring Slowdown Is Here and it will Hurt",
     "https://www.youtube.com/watch?v=X5qJ6nvZKVQ": "How Much Learning Is Too Much?",
-
-
-
-
     "https://khalidabuhakmeh.com/more-efficient-deletes-with-entity-framework-core": "More Efficient Deletes With Entity Framework Core",
     "https://damienbod.com/2022/10/31/switch-tenants-in-an-asp-net-core-app-using-azure-ad-with-multi-tenants/": "Switch tenants in an ASP.NET Core app using Azure AD with multi-tenants",
     "https://codeblog.jonskeet.uk/2022/10/30/handling-times-for-an-ev-charger/": "Handling times for an EV charger",
@@ -3897,10 +3450,6 @@
     "https://dotnettips.wordpress.com/2022/10/28/things-heard-in-development-meetings/": "Things Heard in Development Meetings",
     "https://blog.pragmaticengineer.com/turmoil-at-twitter/": "The Scoop: Turmoil at Twitter",
     "https://www.youtube.com/watch?v=uL7wOK5uAG0": "Does Knowing Data Structures and Algorithms Benefit a C# Developer?",
-
-
-
-
     "https://devblogs.microsoft.com/dotnet/announcing-dotnet-7/": ".NET 7 is Available Today",
     "https://www.youtube.com/watch?v=Pt-0KM5SxmI": "Stop using the Process class for CLI interactions in .NET",
     "https://nodogmablog.bryanhogan.net/2022/11/keeping-your-net-lambda-function-warm-with-provisioned-concurrency/": "Keeping your .NET Lambda Function Warm with Provisioned Concurrency",
@@ -3942,10 +3491,6 @@
     "https://gunnarpeipman.com/mssql-backup-to-azure-blob-storage/": "SQL Server database backup to Azure Blob Storage",
     "https://blog.maartenballiauw.be/post/2022/11/05/mastodon-own-donain-without-hosting-server.html": "Mastodon on your own domain without hosting a server",
     "https://blog.pragmaticengineer.com/cruel-changes-at-twitter/": "Cruel Changes at Twitter",
-
-
-
-
     "https://codeopinion.com/stop-using-trivial-guard-clauses-try-this-instead/": "Stop using trivial Guard Clauses! Try this instead",
     "https://www.youtube.com/watch?v=Tt5zIKVMMbs": "Distributed Caching In ASP.NET Core With Redis | Introduction",
     "https://nodogmablog.bryanhogan.net/2022/11/lambda-cold-starts-net-7-native-aot-vs-net-6-managed-runtime/": "Lambda Cold Starts - .NET 7 Native AOT vs .NET 6 Managed Runtime",
@@ -3969,10 +3514,6 @@
     "https://www.meziantou.net/misconceptions-about-date-and-time.htm?utm_medium=social&amp;utm_source=syndication": "35 Misconceptions about date and time",
     "https://blog.pragmaticengineer.com/layoffs-2022/": "The Scoop: Tech Layoffs in 2022",
     "https://blog.pragmaticengineer.com/who-is-hiring-2022/": "Who is Still Hiring Software Enginers and EMs?",
-
-
-
-
     "https://andrewlock.net/the-dangers-and-gotchas-of-using-scoped-services-when-configuring-options-with-options-builder/": "The dangers and gotchas of using scoped services in OptionsBuilder",
     "https://www.youtube.com/watch?v=Jb8g3zRey6U": ".NET 7 Update: Raw String Literals in 10 Minutes or Less",
     "https://nodogmablog.bryanhogan.net/2022/11/forcing-the-lambda-service-to-warm-100-execution-environments-for-your-function/": "Forcing the Lambda Service to Warm 100 Execution Environments for your Function",
@@ -3998,10 +3539,6 @@
     "https://www.codingblocks.net/podcast/technical-challenges-of-scale-at-twitter/": "Technical Challenges of Scale at Twitter",
     "https://dotnetthoughts.net/publish-images-to-github-container-registry/": "Publish docker images to GitHub Container Registry (ghcr)",
     "https://www.scottbrady91.com/leadership/book-notes-making-of-a-manager": "Book notes &amp; reflections: The Making of a Manager",
-
-
-
-
     "https://dotnetthoughts.net/how-to-create-and-publish-a-nuget-package-with-dotnet-cli/": "How to Create and Publish a NuGet Package with dotnet CLI",
     "https://www.youtube.com/watch?v=BV_f2XnqlRE": "Why you no longer need a Dockerfile in .NET 7",
     "https://anthonygiretti.com/2022/11/29/introducing-c11-raw-string-literals/": "Introducing C#11: Raw string literals",
@@ -4024,10 +3561,6 @@
     "https://www.spreaker.com/user/16677006/dotnetrocks-1822-thinking-high-level-des_1": "Thinking High-Level Design with Billy Hollis",
     "https://codeopinion.com/wix-com-5-event-driven-architecture-pitfalls/": "Wix.com - 5 Event Driven Architecture Pitfalls!",
     "https://damienbod.com/2022/11/28/sharing-microsoft-graph-permissions-and-solution-azure-app-registrations/": "Sharing Microsoft Graph permissions and solution Azure App Registrations",
-
-
-
-
     "https://damienbod.com/2022/12/06/implement-feature-management-in-blazor-asp-net-core/": "Implement Feature Management in Blazor ASP.NET Core",
     "https://andrewlock.net/5-new-mvc-features-in-dotnet-7/": "5 new MVC features in .NET 7",
     "https://anthonygiretti.com/2022/12/02/introducing-c11-required-properties/": "Introducing C#11: Required properties",
@@ -4066,10 +3599,6 @@
     "https://www.youtube.com/watch?v=FEsahkX7ZF8": "ChatGPT Changes Everything, But Not in the Way You Think",
     "https://jussiroine.com/2022/12/a-look-back-three-years-of-working-out-at-the-gym/": "A look back: Three years of working out at the gym",
     "https://michaelscodingspot.com/extending-visual-studio-wish-list/": "My Christmas Wish List from Visual Studio and the C# Build System",
-
-
-
-
     "https://www.danylkoweb.com/Blog/creating-multi-tier-subscriptions-using-c-T3": "Creating Multi-Tier Subscriptions using C#",
     "https://www.youtube.com/watch?v=SUyFPp6BPV0": "Using Custom JWT Claims For Authorization In ASP.NET Core",
     "https://nodogmablog.bryanhogan.net/2022/12/using-memcached-with-a-net-console-application/": "Using Memcached with a .NET Console Application",
@@ -4089,10 +3618,6 @@
     "https://www.infoq.com/news/2022/12/dot-net-community-toolkit-v8-1-0/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global": "What's New in .NET Community Toolkit v8.1.0 Preview 1",
     "https://ericlippert.com/2022/12/09/bean-machine-retrospective-part-4/": "Bean Machine Retrospective, part 4",
     "https://www.youtube.com/watch?v=5CYorFBWK3o": "A Shared Development vs Local Services and Containers",
-
-
-
-
     "https://askxammy.com/getting-started-with-twopaneview-layout-in-net-maui/": "Getting started with TwoPaneView layout in .NET MAUI",
     "https://www.youtube.com/watch?v=32iBQvIZQxU": "Scaffolding .NET Web APIs Powered By EF Core, SQL, &amp; Azure in Seconds",
     "https://nodogmablog.bryanhogan.net/2022/12/a-web-server-that-echoes-requests-and-sometimes-faults-with-a-500-error/": "A Web Server that Echoes Requests and Sometimes Faults with a 500 Error",
@@ -4117,10 +3642,6 @@
     "https://jussiroine.com/2022/12/an-early-look-at-the-eu-data-boundary/": "An early look at the EU Data Boundary",
     "http://feeds.hanselman.com/~/722495724/0/scotthanselman~I-got-tired": "I got tired",
     "https://www.youtube.com/watch?v=DnMz4M8qfr4": "Will Artificial Intelligence Take Away Developer Jobs?",
-
-
-
-
     "https://www.youtube.com/watch?v=wxYt0motww0": "Managing .NET App Configuration With The Options Pattern In ASP.NET Core",
     "https://www.youtube.com/watch?v=edQXPpRKlSY": "Is Dynamic in C# Actually Slow?",
     "https://khalidabuhakmeh.com/generate-youtube-timestamp-links-with-csharp-11": "Generate YouTube Timestamp Links with C# 11",
@@ -4137,10 +3658,6 @@
     "https://www.youtube.com/watch?v=hnjly9iBHso": "How To Learn C# in 2023 - Learning Path, Tips &amp; Tricks, and More",
     "https://www.youtube.com/watch?v=vru0mjRYixI": "How To Learn Web Development In 2023",
     "https://www.youtube.com/watch?v=WDnW5RRk834": "How Do I Make a Resolution I Can Keep?",
-
-
-
-
     "https://devblogs.microsoft.com/dotnet/top-dotnet-blog-posts-of-2022": "Top .NET Blog Posts of 2022",
     "https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2022": "Top .NET Videos &amp; Live Streams of 2022",
     "https://michaelscodingspot.com/azure-databases/": "The Best C# .NET Web Application Tech Stack: Choosing a Database",
@@ -4195,10 +3712,6 @@
     "https://michaelscodingspot.com/safe-application-deployment/": "9 Best Practices to Safely Deploy and Keep Your Application Healthy at Scale",
     "https://blog.pragmaticengineer.com/pollen-salaries/": "Inside Pollen's Software Engineering Salaries",
     "https://ardalis.com/monitor-sites-with-uptime-robot-or-your-own-process/": "Monitor Sites with Uptime Robot or Your Own Process",
-
-
-
-
     "https://dotnetthoughts.net/implementing-crud-operations-with-webapi-and-mongodb/": "Implementing CRUD operations with ASP.NET Core Web API and Mongo DB",
     "https://khalidabuhakmeh.com/multiple-file-drag-and-drop-upload-with-aspnet-core": "Multiple File Drag and Drop Upload with ASP.NET Core",
     "https://www.thomasclaudiushuber.com/2023/01/17/csharp-11-generic-attributes/": "C# 11.0: Generic Attributes",
@@ -4226,10 +3739,6 @@
     "https://simpleprogrammer.com/software-engineer-vs-game-developer/": "Software Engineer vs Game Developer - Which one is for you?",
     "https://blog.pragmaticengineer.com/the-scoop-big-tech-layoffs/": "What Big Tech layoffs suggest for the industry",
     "https://www.youtube.com/watch?v=P5mkH6Bp03w": "How Do I Recover After Being Fired?",
-
-
-
-
     "https://www.meziantou.net/using-dotnet-code-from-javascript-using-webassembly.htm?utm_medium=social&amp;utm_source=syndication": "Using .NET code from JavaScript using WebAssembly",
     "https://www.youtube.com/watch?v=fW-rx2ONPGM": "Associating File Uploads with a Form - The Blazor File Upload Mini-Course",
     "https://nodogmablog.bryanhogan.net/2023/01/text-to-speech-with-amazon-polly-and-net/": "Text to Speech with Amazon Polly and .NET",
@@ -4256,10 +3765,6 @@
     "https://ardalis.com/chrome-browser-tabs-to-links/": "Chrome Browser Tabs to Links",
     "https://blog.pragmaticengineer.com/apple-job-cuts-tide/": "Apple: The Only Big Tech Giant Going Against the Job Cuts Tide",
     "https://www.youtube.com/watch?v=eEtgNdLZ6Lg": "Why Is Diversity Important In Software Development?",
-
-
-
-
     "https://blog.elmah.io/creating-and-downloading-zip-files-with-asp-net-core/": "Creating and downloading zip files with ASP.NET Core ",
     "https://www.youtube.com/watch?v=OjFuBMhJmr4": "Optimizing String Performance Easily in C#",
     "https://nodogmablog.bryanhogan.net/2023/01/using-amazon-polly-to-read-a-dialogue-from-julius-caesar/": "Using Amazon Polly to read a Dialogue from Julius Caesar",
@@ -4284,10 +3789,6 @@
     "https://www.spreaker.com/user/16677006/dotnetrocks-1831-clean-architecture-in-2": "Clean Architecture in 2023 with Steven Smith",
     "https://dotnetcore.show/episode-115-how-we-got-into-security-roundtable/": "How We Got Into Security with Ashley Burke, Karla Reffold, and Divya Mudgal",
     "https://programmingwithmosh.com/general/top-best-practices-to-build-high-quality-software/": "Top Best Practices to Build High Quality Software",
-
-
-
-
     "https://khalidabuhakmeh.com/how-to-use-entity-framework-core-in-aspnet-core": "How to use Entity Framework Core in ASP.NET Core",
     "https://www.youtube.com/watch?v=CV6VdBR86co": "How To Implement API Key Authentication In ASP.NET Core",
     "https://nodogmablog.bryanhogan.net/2023/02/extracting-key-value-pairs-from-document-form-fields-with-aws-textract-and-net/": "Extracting Key-Value Pairs from Document Form Fields with AWS Textract and .NET",
@@ -4312,9 +3813,5 @@
     "https://codeopinion.com/which-software-architecture-patterns-do-you-use/": "Which Software Architecture Patterns do you use?",
     "https://weblog.west-wind.com/posts/2023/Feb/09/UpperCase-Styling-via-CSS": "UpperCase Styling via CSS",
     "https://www.youtube.com/watch?v=MMBb6votW_0": "Is It Possible To Overuse DRY? Is Repeating Yourself Ever OK?",
-    "https://jussiroine.com/2023/02/a-journey-into-using-a-macbook-pro-14-m2-max-2023-after-a-lifetime-on-windows-and-pcs/": "A journey into using a MacBook Pro 14″ M2 Max (2023) after a lifetime on Windows and PCs",
-
-
-
-
+    "https://jussiroine.com/2023/02/a-journey-into-using-a-macbook-pro-14-m2-max-2023-after-a-lifetime-on-windows-and-pcs/": "A journey into using a MacBook Pro 14″ M2 Max (2023) after a lifetime on Windows and PCs"
 }
